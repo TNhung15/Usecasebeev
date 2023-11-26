@@ -1,0 +1,36 @@
+version: '3.7'
+
+services:
+  Db:
+    container_name: postgres_container
+    volumes:
+      - ./data/Db:/var/lib/postgresql/data
+    image: postgres
+    restart: always
+    environment:
+      - POSTGRES_DB=mydb
+      - POSTGRES_USER=myuser
+      - POSTGRES_PASSWORD=mypassword
+    ports:
+      - "5432:5432"
+  
+  pgadmin:
+    container_name: pgadmin4_container
+    image: dpage/pgadmin4
+    depends_on:
+      - Db
+    restart: always
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@gmail.com
+      - PGADMIN_DEFAULT_PASSWORD=adminpassword  
+
+    ports:
+      - "5050:80"
+
+  my_python_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+

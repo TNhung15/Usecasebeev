@@ -1,0 +1,1501 @@
+Make,Model,Year,Price,Engine Type,Country,Review Score,Sales Volume
+Fiat,Tipo,2013,53000,Electric,France,4.1,2314
+Fiat,Tipo,2013,53000,Electric,Germany,4.2,6061
+Fiat,Tipo,2013,53000,Electric,USA,4.0,15534
+Fiat,Tipo,2020,49000,Electric,France,1.3,10015
+Fiat,Tipo,2020,49000,Electric,Germany,2.7,4978
+Fiat,Tipo,2020,49000,Electric,USA,4.2,14309
+Audi,Q5,2022,39000,Thermal,France,2.9,6316
+Audi,Q5,2022,39000,Thermal,Germany,3.6,1387
+Audi,Q5,2022,39000,Thermal,USA,4.7,13310
+Audi,Q5,2022,69000,Thermal,France,2.9,6316
+Audi,Q5,2022,69000,Thermal,Germany,3.6,1387
+Audi,Q5,2022,69000,Thermal,USA,4.7,13310
+Vauxhall,Astra,2011,36000,Thermal,France,2.1,15395
+Vauxhall,Astra,2011,36000,Thermal,Germany,4.4,1352
+Vauxhall,Astra,2011,36000,Thermal,USA,2.4,6519
+Jaguar,XF,2013,23000,Thermal,France,2.6,7283
+Jaguar,XF,2013,23000,Thermal,Germany,3.1,14149
+Jaguar,XF,2013,23000,Thermal,USA,3.7,8487
+Nissan,Murano,2022,38000,Thermal,France,2.0,11690
+Nissan,Murano,2022,38000,Thermal,Germany,4.4,10780
+Nissan,Murano,2022,38000,Thermal,USA,3.1,16797
+Toyota,Camry,2016,26000,Thermal,France,3.7,806
+Toyota,Camry,2016,26000,Thermal,Germany,1.8,14011
+Toyota,Camry,2016,26000,Thermal,USA,1.4,3503
+Subaru,Impreza,2012,46000,Electric,France,2.4,1649
+Subaru,Impreza,2012,46000,Electric,Germany,2.7,5921
+Subaru,Impreza,2012,46000,Electric,USA,2.4,16617
+Acura,RDX,2015,58000,Electric,France,2.0,2697
+Acura,RDX,2015,58000,Electric,Germany,2.1,9447
+Acura,RDX,2015,58000,Electric,USA,2.6,12865
+Tesla,Model X,2015,54000,Thermal,France,2.1,10970
+Tesla,Model X,2015,54000,Thermal,Germany,1.9,3084
+Tesla,Model X,2015,54000,Thermal,USA,2.8,585
+Tesla,Model X,2015,47000,Electric,France,2.1,10970
+Tesla,Model X,2015,47000,Electric,Germany,1.9,3084
+Tesla,Model X,2015,47000,Electric,USA,2.8,585
+Subaru,Outback,2017,63000,Electric,France,4.4,13195
+Subaru,Outback,2017,63000,Electric,Germany,1.7,14525
+Subaru,Outback,2017,63000,Electric,USA,3.3,5726
+Tesla,Model S,2022,53000,Electric,France,4.6,17474
+Tesla,Model S,2022,53000,Electric,Germany,2.7,2429
+Tesla,Model S,2022,53000,Electric,USA,2.8,9161
+Subaru,Forester,2018,80000,Thermal,France,3.0,708
+Subaru,Forester,2018,80000,Thermal,Germany,4.6,7054
+Subaru,Forester,2018,80000,Thermal,USA,2.6,8526
+Mazda,CX-9,2020,50000,Electric,France,1.7,10168
+Mazda,CX-9,2020,50000,Electric,Germany,1.7,16233
+Mazda,CX-9,2020,50000,Electric,USA,2.6,6352
+Mazda,CX-9,2020,54000,Electric,France,1.7,10168
+Mazda,CX-9,2020,54000,Electric,Germany,1.7,16233
+Mazda,CX-9,2020,54000,Electric,USA,2.6,6352
+Renault,Megane,2022,63000,Electric,France,4.3,9949
+Renault,Megane,2022,63000,Electric,Germany,1.1,11742
+Renault,Megane,2022,63000,Electric,USA,2.7,4121
+Renault,Megane,2022,24000,Electric,France,4.3,9949
+Renault,Megane,2022,24000,Electric,Germany,1.1,11742
+Renault,Megane,2022,24000,Electric,USA,2.7,4121
+Volkswagen,Atlas,2011,66000,Thermal,France,3.1,8173
+Volkswagen,Atlas,2011,66000,Thermal,Germany,3.3,16055
+Volkswagen,Atlas,2011,66000,Thermal,USA,2.2,4983
+Ford,Explorer,2013,57000,Thermal,France,1.2,2499
+Ford,Explorer,2013,57000,Thermal,Germany,1.6,1929
+Ford,Explorer,2013,57000,Thermal,USA,1.3,12047
+Volkswagen,Golf,2022,30000,Electric,France,3.4,6327
+Volkswagen,Golf,2022,30000,Electric,Germany,3.8,6818
+Volkswagen,Golf,2022,30000,Electric,USA,3.1,4383
+Hyundai,Santa Fe,2011,36000,Electric,France,2.8,7156
+Hyundai,Santa Fe,2011,36000,Electric,Germany,4.9,17281
+Hyundai,Santa Fe,2011,36000,Electric,USA,3.3,10729
+Hyundai,Santa Fe,2011,48000,Thermal,France,2.8,7156
+Hyundai,Santa Fe,2011,48000,Thermal,Germany,4.9,17281
+Hyundai,Santa Fe,2011,48000,Thermal,USA,3.3,10729
+Acura,TLX,2013,49000,Thermal,France,1.5,17889
+Acura,TLX,2013,49000,Thermal,Germany,3.7,8616
+Acura,TLX,2013,49000,Thermal,USA,2.8,12903
+Acura,TLX,2013,22000,Thermal,France,1.5,17889
+Acura,TLX,2013,22000,Thermal,Germany,3.7,8616
+Acura,TLX,2013,22000,Thermal,USA,2.8,12903
+Audi,e-tron,2022,73000,Electric,France,2.8,4222
+Audi,e-tron,2022,73000,Electric,Germany,1.7,10933
+Audi,e-tron,2022,73000,Electric,USA,2.7,10766
+BMW,X3,2012,38000,Electric,France,3.4,3749
+BMW,X3,2012,38000,Electric,Germany,3.5,1688
+BMW,X3,2012,38000,Electric,USA,2.6,10007
+Honda,Civic,2017,30000,Electric,France,2.8,10683
+Honda,Civic,2017,30000,Electric,Germany,1.3,10999
+Honda,Civic,2017,30000,Electric,USA,3.6,7687
+Volvo,S90,2018,28000,Electric,France,1.1,7656
+Volvo,S90,2018,28000,Electric,Germany,1.7,2675
+Volvo,S90,2018,28000,Electric,USA,4.6,17928
+Porsche,911,2020,40000,Electric,France,1.6,14816
+Porsche,911,2020,40000,Electric,Germany,4.8,1717
+Porsche,911,2020,40000,Electric,USA,1.2,9122
+Porsche,911,2020,35000,Thermal,France,1.6,14816
+Porsche,911,2020,35000,Thermal,Germany,4.8,1717
+Porsche,911,2020,35000,Thermal,USA,1.2,9122
+BMW,3 Series,2018,79000,Thermal,France,1.8,15036
+BMW,3 Series,2018,79000,Thermal,Germany,4.1,8700
+BMW,3 Series,2018,79000,Thermal,USA,3.4,704
+BMW,5 Series,2016,54000,Thermal,France,4.4,5981
+BMW,5 Series,2016,54000,Thermal,Germany,4.0,5772
+BMW,5 Series,2016,54000,Thermal,USA,2.2,8456
+Ford,F-150,2013,72000,Electric,France,2.2,17135
+Ford,F-150,2013,72000,Electric,Germany,3.4,12795
+Ford,F-150,2013,72000,Electric,USA,3.7,1922
+Jaguar,F-PACE,2013,68000,Electric,France,1.2,8697
+Jaguar,F-PACE,2013,68000,Electric,Germany,2.5,15759
+Jaguar,F-PACE,2013,68000,Electric,USA,1.3,12908
+Mazda,CX-5,2011,66000,Thermal,France,1.8,8085
+Mazda,CX-5,2011,66000,Thermal,Germany,4.6,13067
+Mazda,CX-5,2011,66000,Thermal,USA,2.6,4913
+Buick,Envision,2013,39000,Electric,France,1.9,11482
+Buick,Envision,2013,39000,Electric,Germany,1.6,10997
+Buick,Envision,2013,39000,Electric,USA,3.7,12295
+Buick,Envision,2013,56000,Electric,France,1.9,11482
+Buick,Envision,2013,56000,Electric,Germany,1.6,10997
+Buick,Envision,2013,56000,Electric,USA,3.7,12295
+Mercedes-Benz,S-Class,2016,58000,Electric,France,3.6,12509
+Mercedes-Benz,S-Class,2016,58000,Electric,Germany,1.6,16704
+Mercedes-Benz,S-Class,2016,58000,Electric,USA,2.3,8726
+Vauxhall,Astra,2019,80000,Electric,France,4.4,11874
+Vauxhall,Astra,2019,80000,Electric,Germany,2.9,12804
+Vauxhall,Astra,2019,80000,Electric,USA,2.5,3568
+Lexus,ES,2014,68000,Electric,France,4.2,13877
+Lexus,ES,2014,68000,Electric,Germany,2.1,9398
+Lexus,ES,2014,68000,Electric,USA,4.7,13832
+Honda,Fit,2013,79000,Electric,France,4.5,14641
+Honda,Fit,2013,79000,Electric,Germany,2.1,532
+Honda,Fit,2013,79000,Electric,USA,3.4,16738
+Renault,Megane,2018,41000,Electric,France,1.8,14156
+Renault,Megane,2018,41000,Electric,Germany,3.3,15373
+Renault,Megane,2018,41000,Electric,USA,2.1,2568
+Hyundai,Elantra,2017,50000,Electric,France,4.3,18173
+Hyundai,Elantra,2017,50000,Electric,Germany,2.0,17593
+Hyundai,Elantra,2017,50000,Electric,USA,1.5,5422
+Kia,Optima,2019,24000,Thermal,France,3.8,17003
+Kia,Optima,2019,24000,Thermal,Germany,4.8,8467
+Kia,Optima,2019,24000,Thermal,USA,4.0,9492
+Renault,Clio,2011,38000,Electric,France,1.7,13994
+Renault,Clio,2011,38000,Electric,Germany,2.5,17467
+Renault,Clio,2011,38000,Electric,USA,3.7,3466
+Renault,Clio,2011,25000,Thermal,France,1.7,13994
+Renault,Clio,2011,25000,Thermal,Germany,2.5,17467
+Renault,Clio,2011,25000,Thermal,USA,3.7,3466
+Volvo,XC90,2010,80000,Thermal,France,1.6,8381
+Volvo,XC90,2010,80000,Thermal,Germany,2.1,1393
+Volvo,XC90,2010,80000,Thermal,USA,2.5,10274
+Lexus,RX,2010,40000,Thermal,France,2.2,16618
+Lexus,RX,2010,40000,Thermal,Germany,2.8,7594
+Lexus,RX,2010,40000,Thermal,USA,3.8,4542
+Kia,Soul,2020,71000,Electric,France,3.4,2449
+Kia,Soul,2020,71000,Electric,Germany,1.4,1549
+Kia,Soul,2020,71000,Electric,USA,1.6,2130
+Subaru,Forester,2016,58000,Electric,France,2.5,11243
+Subaru,Forester,2016,58000,Electric,Germany,4.7,10346
+Subaru,Forester,2016,58000,Electric,USA,1.4,9501
+Mazda,CX-5,2021,33000,Thermal,France,4.6,3554
+Mazda,CX-5,2021,33000,Thermal,Germany,3.6,3791
+Mazda,CX-5,2021,33000,Thermal,USA,3.5,13335
+Subaru,Outback,2020,59000,Thermal,France,2.3,16428
+Subaru,Outback,2020,59000,Thermal,Germany,2.9,17846
+Subaru,Outback,2020,59000,Thermal,USA,4.1,1483
+Jaguar,F-PACE,2022,56000,Thermal,France,4.5,3774
+Jaguar,F-PACE,2022,56000,Thermal,Germany,4.3,8118
+Jaguar,F-PACE,2022,56000,Thermal,USA,2.0,17265
+Jaguar,F-PACE,2022,53000,Electric,France,4.5,3774
+Jaguar,F-PACE,2022,53000,Electric,Germany,4.3,8118
+Jaguar,F-PACE,2022,53000,Electric,USA,2.0,17265
+Jaguar,F-PACE,2022,34000,Electric,France,4.5,3774
+Jaguar,F-PACE,2022,34000,Electric,Germany,4.3,8118
+Jaguar,F-PACE,2022,34000,Electric,USA,2.0,17265
+Jaguar,F-PACE,2022,70000,Thermal,France,4.5,3774
+Jaguar,F-PACE,2022,70000,Thermal,Germany,4.3,8118
+Jaguar,F-PACE,2022,70000,Thermal,USA,2.0,17265
+Subaru,Ascent,2019,53000,Electric,France,3.0,17702
+Subaru,Ascent,2019,53000,Electric,Germany,2.4,10293
+Subaru,Ascent,2019,53000,Electric,USA,1.9,3720
+Fiat,124 Spider,2010,45000,Electric,France,4.6,11442
+Fiat,124 Spider,2010,45000,Electric,Germany,3.9,2902
+Fiat,124 Spider,2010,45000,Electric,USA,4.7,17190
+Kia,Sportage,2014,49000,Electric,France,1.5,4806
+Kia,Sportage,2014,49000,Electric,Germany,1.6,13578
+Kia,Sportage,2014,49000,Electric,USA,3.1,14950
+Peugeot,508,2012,49000,Thermal,France,3.1,9618
+Peugeot,508,2012,49000,Thermal,Germany,1.7,9179
+Peugeot,508,2012,49000,Thermal,USA,4.1,14954
+Tesla,Model X,2011,39000,Thermal,France,4.7,9452
+Tesla,Model X,2011,39000,Thermal,Germany,2.7,12226
+Tesla,Model X,2011,39000,Thermal,USA,4.7,9930
+BMW,X3,2014,36000,Electric,France,4.3,17006
+BMW,X3,2014,36000,Electric,Germany,4.1,15221
+BMW,X3,2014,36000,Electric,USA,2.8,724
+Kia,Sportage,2011,42000,Electric,France,4.2,3992
+Kia,Sportage,2011,42000,Electric,Germany,3.0,14223
+Kia,Sportage,2011,42000,Electric,USA,2.1,14164
+Kia,Sportage,2011,46000,Thermal,France,4.2,3992
+Kia,Sportage,2011,46000,Thermal,Germany,3.0,14223
+Kia,Sportage,2011,46000,Thermal,USA,2.1,14164
+Volkswagen,Atlas,2019,60000,Electric,France,1.4,14626
+Volkswagen,Atlas,2019,60000,Electric,Germany,3.1,18393
+Volkswagen,Atlas,2019,60000,Electric,USA,1.2,12932
+Volkswagen,Atlas,2019,76000,Electric,France,1.4,14626
+Volkswagen,Atlas,2019,76000,Electric,Germany,3.1,18393
+Volkswagen,Atlas,2019,76000,Electric,USA,1.2,12932
+Volvo,S90,2017,39000,Thermal,France,3.5,4053
+Volvo,S90,2017,39000,Thermal,Germany,1.7,1413
+Volvo,S90,2017,39000,Thermal,USA,2.1,17748
+Mercedes-Benz,E-Class,2016,42000,Electric,France,3.2,3259
+Mercedes-Benz,E-Class,2016,42000,Electric,Germany,3.4,16751
+Mercedes-Benz,E-Class,2016,42000,Electric,USA,3.5,5016
+Mercedes-Benz,E-Class,2016,59000,Electric,France,3.2,3259
+Mercedes-Benz,E-Class,2016,59000,Electric,Germany,3.4,16751
+Mercedes-Benz,E-Class,2016,59000,Electric,USA,3.5,5016
+Ford,Explorer,2018,62000,Electric,France,1.4,4565
+Ford,Explorer,2018,62000,Electric,Germany,4.0,12286
+Ford,Explorer,2018,62000,Electric,USA,4.1,14967
+Ford,Explorer,2018,79000,Electric,France,1.4,4565
+Ford,Explorer,2018,79000,Electric,Germany,4.0,12286
+Ford,Explorer,2018,79000,Electric,USA,4.1,14967
+Buick,Regal,2012,26000,Thermal,France,2.2,7387
+Buick,Regal,2012,26000,Thermal,Germany,2.5,9968
+Buick,Regal,2012,26000,Thermal,USA,4.5,1179
+Buick,Regal,2012,48000,Thermal,France,2.2,7387
+Buick,Regal,2012,48000,Thermal,Germany,2.5,9968
+Buick,Regal,2012,48000,Thermal,USA,4.5,1179
+Nissan,Altima,2018,76000,Thermal,France,3.4,3381
+Nissan,Altima,2018,76000,Thermal,Germany,2.3,15096
+Nissan,Altima,2018,76000,Thermal,USA,3.4,6908
+Mazda,Mazda3,2012,61000,Electric,France,3.4,7016
+Mazda,Mazda3,2012,61000,Electric,Germany,2.2,1960
+Mazda,Mazda3,2012,61000,Electric,USA,3.4,7846
+Jaguar,F-PACE,2020,29000,Electric,France,3.7,14639
+Jaguar,F-PACE,2020,29000,Electric,Germany,3.6,18443
+Jaguar,F-PACE,2020,29000,Electric,USA,2.4,9896
+Jaguar,F-PACE,2020,24000,Electric,France,3.7,14639
+Jaguar,F-PACE,2020,24000,Electric,Germany,3.6,18443
+Jaguar,F-PACE,2020,24000,Electric,USA,2.4,9896
+Jaguar,F-PACE,2021,37000,Thermal,France,2.1,11022
+Jaguar,F-PACE,2021,37000,Thermal,Germany,2.2,11537
+Jaguar,F-PACE,2021,37000,Thermal,USA,4.3,4999
+Volvo,XC60,2018,52000,Electric,France,3.8,7920
+Volvo,XC60,2018,52000,Electric,Germany,1.8,8951
+Volvo,XC60,2018,52000,Electric,USA,2.2,2338
+Volvo,XC60,2018,72000,Thermal,France,3.8,7920
+Volvo,XC60,2018,72000,Thermal,Germany,1.8,8951
+Volvo,XC60,2018,72000,Thermal,USA,2.2,2338
+Hyundai,Sonata,2014,23000,Thermal,France,2.9,6564
+Hyundai,Sonata,2014,23000,Thermal,Germany,3.9,14985
+Hyundai,Sonata,2014,23000,Thermal,USA,3.2,16175
+Tesla,Model 3,2018,72000,Electric,France,4.4,8993
+Tesla,Model 3,2018,72000,Electric,Germany,2.9,11365
+Tesla,Model 3,2018,72000,Electric,USA,3.2,9488
+Tesla,Model 3,2018,74000,Thermal,France,4.4,8993
+Tesla,Model 3,2018,74000,Thermal,Germany,2.9,11365
+Tesla,Model 3,2018,74000,Thermal,USA,3.2,9488
+Peugeot,3008,2011,41000,Electric,France,2.1,5058
+Peugeot,3008,2011,41000,Electric,Germany,2.9,13470
+Peugeot,3008,2011,41000,Electric,USA,3.8,1314
+Peugeot,508,2018,36000,Electric,France,2.5,12560
+Peugeot,508,2018,36000,Electric,Germany,3.2,14780
+Peugeot,508,2018,36000,Electric,USA,1.5,11418
+Peugeot,508,2018,78000,Thermal,France,2.5,12560
+Peugeot,508,2018,78000,Thermal,Germany,3.2,14780
+Peugeot,508,2018,78000,Thermal,USA,1.5,11418
+Jaguar,F-PACE,2016,51000,Electric,France,3.2,6720
+Jaguar,F-PACE,2016,51000,Electric,Germany,3.2,13145
+Jaguar,F-PACE,2016,51000,Electric,USA,1.8,6364
+Lexus,GX,2017,79000,Thermal,France,3.4,7068
+Lexus,GX,2017,79000,Thermal,Germany,4.1,9976
+Lexus,GX,2017,79000,Thermal,USA,2.4,10298
+Lexus,GX,2017,52000,Electric,France,3.4,7068
+Lexus,GX,2017,52000,Electric,Germany,4.1,9976
+Lexus,GX,2017,52000,Electric,USA,2.4,10298
+Lexus,GX,2017,77000,Thermal,France,3.4,7068
+Lexus,GX,2017,77000,Thermal,Germany,4.1,9976
+Lexus,GX,2017,77000,Thermal,USA,2.4,10298
+Jaguar,F-PACE,2011,63000,Thermal,France,1.3,5050
+Jaguar,F-PACE,2011,63000,Thermal,Germany,4.6,9886
+Jaguar,F-PACE,2011,63000,Thermal,USA,4.2,7415
+Jaguar,XF,2010,60000,Thermal,France,4.3,13956
+Jaguar,XF,2010,60000,Thermal,Germany,1.6,3662
+Jaguar,XF,2010,60000,Thermal,USA,4.5,13450
+Porsche,Macan,2019,30000,Electric,France,4.1,13901
+Porsche,Macan,2019,30000,Electric,Germany,1.9,14764
+Porsche,Macan,2019,30000,Electric,USA,1.5,1009
+Porsche,Macan,2019,63000,Electric,France,4.1,13901
+Porsche,Macan,2019,63000,Electric,Germany,1.9,14764
+Porsche,Macan,2019,63000,Electric,USA,1.5,1009
+BMW,X5,2013,45000,Thermal,France,2.9,3297
+BMW,X5,2013,45000,Thermal,Germany,2.1,6261
+BMW,X5,2013,45000,Thermal,USA,1.1,14287
+Peugeot,508,2019,58000,Electric,France,3.7,17720
+Peugeot,508,2019,58000,Electric,Germany,3.6,17760
+Peugeot,508,2019,58000,Electric,USA,1.6,12262
+Peugeot,508,2019,54000,Thermal,France,3.7,17720
+Peugeot,508,2019,54000,Thermal,Germany,3.6,17760
+Peugeot,508,2019,54000,Thermal,USA,1.6,12262
+Acura,TLX,2016,46000,Thermal,France,1.7,7168
+Acura,TLX,2016,46000,Thermal,Germany,4.9,8063
+Acura,TLX,2016,46000,Thermal,USA,1.6,11428
+Mercedes-Benz,C-Class,2010,72000,Thermal,France,4.7,14496
+Mercedes-Benz,C-Class,2010,72000,Thermal,Germany,4.0,13418
+Mercedes-Benz,C-Class,2010,72000,Thermal,USA,2.0,3267
+Mercedes-Benz,C-Class,2010,64000,Electric,France,4.7,14496
+Mercedes-Benz,C-Class,2010,64000,Electric,Germany,4.0,13418
+Mercedes-Benz,C-Class,2010,64000,Electric,USA,2.0,3267
+Audi,A4,2020,64000,Thermal,France,1.1,3254
+Audi,A4,2020,64000,Thermal,Germany,1.7,9207
+Audi,A4,2020,64000,Thermal,USA,1.6,2412
+Tesla,Model 3,2011,69000,Electric,France,1.4,3712
+Tesla,Model 3,2011,69000,Electric,Germany,1.9,12710
+Tesla,Model 3,2011,69000,Electric,USA,2.7,6492
+Lexus,RX,2022,53000,Thermal,France,4.3,10665
+Lexus,RX,2022,53000,Thermal,Germany,2.2,3596
+Lexus,RX,2022,53000,Thermal,USA,2.4,6662
+Lexus,RX,2022,30000,Thermal,France,4.3,10665
+Lexus,RX,2022,30000,Thermal,Germany,2.2,3596
+Lexus,RX,2022,30000,Thermal,USA,2.4,6662
+Lexus,RX,2022,26000,Electric,France,4.3,10665
+Lexus,RX,2022,26000,Electric,Germany,2.2,3596
+Lexus,RX,2022,26000,Electric,USA,2.4,6662
+Tesla,Model 3,2012,26000,Electric,France,4.8,14713
+Tesla,Model 3,2012,26000,Electric,Germany,1.5,17310
+Tesla,Model 3,2012,26000,Electric,USA,4.3,5880
+Tesla,Model S,2015,63000,Thermal,France,3.3,12848
+Tesla,Model S,2015,63000,Thermal,Germany,2.5,12489
+Tesla,Model S,2015,63000,Thermal,USA,2.8,8468
+Volkswagen,Atlas,2022,27000,Thermal,France,2.1,17489
+Volkswagen,Atlas,2022,27000,Thermal,Germany,3.7,18288
+Volkswagen,Atlas,2022,27000,Thermal,USA,4.6,1479
+Fiat,500X,2020,34000,Thermal,France,2.3,13349
+Fiat,500X,2020,34000,Thermal,Germany,3.9,3578
+Fiat,500X,2020,34000,Thermal,USA,1.3,13167
+BMW,X5,2012,33000,Electric,France,1.5,11558
+BMW,X5,2012,33000,Electric,Germany,4.2,7254
+BMW,X5,2012,33000,Electric,USA,1.2,3973
+Renault,Captur,2018,49000,Electric,France,1.4,4105
+Renault,Captur,2018,49000,Electric,Germany,2.3,17131
+Renault,Captur,2018,49000,Electric,USA,1.4,2102
+BMW,7 Series,2012,63000,Electric,France,4.9,11796
+BMW,7 Series,2012,63000,Electric,Germany,2.4,11106
+BMW,7 Series,2012,63000,Electric,USA,3.9,1815
+BMW,7 Series,2012,36000,Electric,France,4.9,11796
+BMW,7 Series,2012,36000,Electric,Germany,2.4,11106
+BMW,7 Series,2012,36000,Electric,USA,3.9,1815
+Vauxhall,Insignia,2018,75000,Thermal,France,1.2,8920
+Vauxhall,Insignia,2018,75000,Thermal,Germany,3.5,15468
+Vauxhall,Insignia,2018,75000,Thermal,USA,1.3,13649
+Peugeot,308,2016,20000,Electric,France,1.6,16850
+Peugeot,308,2016,20000,Electric,Germany,3.5,5006
+Peugeot,308,2016,20000,Electric,USA,2.9,4654
+Peugeot,308,2016,55000,Electric,France,1.6,16850
+Peugeot,308,2016,55000,Electric,Germany,3.5,5006
+Peugeot,308,2016,55000,Electric,USA,2.9,4654
+Vauxhall,Corsa,2022,65000,Thermal,France,3.4,4442
+Vauxhall,Corsa,2022,65000,Thermal,Germany,2.8,12083
+Vauxhall,Corsa,2022,65000,Thermal,USA,2.6,10161
+Buick,Regal,2013,78000,Electric,France,2.5,6317
+Buick,Regal,2013,78000,Electric,Germany,4.8,16759
+Buick,Regal,2013,78000,Electric,USA,1.9,5227
+Buick,Regal,2013,34000,Thermal,France,2.5,6317
+Buick,Regal,2013,34000,Thermal,Germany,4.8,16759
+Buick,Regal,2013,34000,Thermal,USA,1.9,5227
+Vauxhall,Grandland X,2012,60000,Thermal,France,4.4,6054
+Vauxhall,Grandland X,2012,60000,Thermal,Germany,4.3,12211
+Vauxhall,Grandland X,2012,60000,Thermal,USA,2.0,7380
+Vauxhall,Grandland X,2012,68000,Thermal,France,4.4,6054
+Vauxhall,Grandland X,2012,68000,Thermal,Germany,4.3,12211
+Vauxhall,Grandland X,2012,68000,Thermal,USA,2.0,7380
+Nissan,Rogue,2011,57000,Thermal,France,3.9,8021
+Nissan,Rogue,2011,57000,Thermal,Germany,2.2,13724
+Nissan,Rogue,2011,57000,Thermal,USA,2.9,10086
+Volvo,S90,2016,65000,Thermal,France,1.4,14910
+Volvo,S90,2016,65000,Thermal,Germany,4.2,1251
+Volvo,S90,2016,65000,Thermal,USA,2.6,1184
+Mazda,CX-5,2018,66000,Electric,France,3.6,12849
+Mazda,CX-5,2018,66000,Electric,Germany,3.5,5870
+Mazda,CX-5,2018,66000,Electric,USA,3.0,11727
+Mazda,CX-5,2018,64000,Thermal,France,3.6,12849
+Mazda,CX-5,2018,64000,Thermal,Germany,3.5,5870
+Mazda,CX-5,2018,64000,Thermal,USA,3.0,11727
+Kia,Telluride,2020,66000,Thermal,France,4.8,4100
+Kia,Telluride,2020,66000,Thermal,Germany,4.8,13968
+Kia,Telluride,2020,66000,Thermal,USA,4.6,9490
+Acura,MDX,2013,75000,Thermal,France,3.1,848
+Acura,MDX,2013,75000,Thermal,Germany,3.1,11393
+Acura,MDX,2013,75000,Thermal,USA,1.8,16466
+Chevrolet,Cruze,2016,70000,Electric,France,2.2,7362
+Chevrolet,Cruze,2016,70000,Electric,Germany,3.1,5871
+Chevrolet,Cruze,2016,70000,Electric,USA,1.7,16945
+Kia,Telluride,2016,48000,Electric,France,4.5,2612
+Kia,Telluride,2016,48000,Electric,Germany,4.8,8690
+Kia,Telluride,2016,48000,Electric,USA,1.7,17500
+Nissan,Leaf,2011,20000,Electric,France,2.1,17574
+Nissan,Leaf,2011,20000,Electric,Germany,2.6,14931
+Nissan,Leaf,2011,20000,Electric,USA,1.2,2334
+Porsche,Panamera,2014,70000,Electric,France,3.2,5613
+Porsche,Panamera,2014,70000,Electric,Germany,3.1,13874
+Porsche,Panamera,2014,70000,Electric,USA,3.3,3539
+Volvo,S90,2012,39000,Electric,France,3.6,16153
+Volvo,S90,2012,39000,Electric,Germany,2.6,7121
+Volvo,S90,2012,39000,Electric,USA,2.4,5889
+Chevrolet,Malibu,2016,26000,Thermal,France,1.9,16909
+Chevrolet,Malibu,2016,26000,Thermal,Germany,2.3,1710
+Chevrolet,Malibu,2016,26000,Thermal,USA,1.6,6017
+Chevrolet,Malibu,2016,46000,Electric,France,1.9,16909
+Chevrolet,Malibu,2016,46000,Electric,Germany,2.3,1710
+Chevrolet,Malibu,2016,46000,Electric,USA,1.6,6017
+Renault,Kadjar,2017,21000,Thermal,France,3.2,2845
+Renault,Kadjar,2017,21000,Thermal,Germany,4.5,8139
+Renault,Kadjar,2017,21000,Thermal,USA,4.8,1823
+Audi,A6,2012,57000,Electric,France,1.7,5290
+Audi,A6,2012,57000,Electric,Germany,2.7,4857
+Audi,A6,2012,57000,Electric,USA,4.3,7461
+Peugeot,5008,2012,56000,Electric,France,1.1,531
+Peugeot,5008,2012,56000,Electric,Germany,3.0,8162
+Peugeot,5008,2012,56000,Electric,USA,4.4,6338
+Porsche,Panamera,2019,61000,Thermal,France,3.0,1773
+Porsche,Panamera,2019,61000,Thermal,Germany,3.7,16828
+Porsche,Panamera,2019,61000,Thermal,USA,3.1,2991
+BMW,5 Series,2014,51000,Thermal,France,3.1,10891
+BMW,5 Series,2014,51000,Thermal,Germany,3.6,2905
+BMW,5 Series,2014,51000,Thermal,USA,4.7,8366
+Buick,Enclave,2013,20000,Thermal,France,2.1,13427
+Buick,Enclave,2013,20000,Thermal,Germany,3.1,2496
+Buick,Enclave,2013,20000,Thermal,USA,3.0,12751
+Lexus,ES,2013,49000,Electric,France,2.9,16966
+Lexus,ES,2013,49000,Electric,Germany,2.3,7950
+Lexus,ES,2013,49000,Electric,USA,4.1,13616
+Lexus,ES,2013,51000,Electric,France,2.9,16966
+Lexus,ES,2013,51000,Electric,Germany,2.3,7950
+Lexus,ES,2013,51000,Electric,USA,4.1,13616
+Mercedes-Benz,GLE,2014,55000,Electric,France,2.6,7276
+Mercedes-Benz,GLE,2014,55000,Electric,Germany,1.9,2702
+Mercedes-Benz,GLE,2014,55000,Electric,USA,2.2,2262
+Ford,Explorer,2022,53000,Thermal,France,1.1,4038
+Ford,Explorer,2022,53000,Thermal,Germany,1.6,12602
+Ford,Explorer,2022,53000,Thermal,USA,2.6,13938
+Ford,Explorer,2022,39000,Electric,France,1.1,4038
+Ford,Explorer,2022,39000,Electric,Germany,1.6,12602
+Ford,Explorer,2022,39000,Electric,USA,2.6,13938
+Subaru,Forester,2020,29000,Electric,France,1.1,15630
+Subaru,Forester,2020,29000,Electric,Germany,3.7,13849
+Subaru,Forester,2020,29000,Electric,USA,1.3,9170
+Hyundai,Tucson,2016,73000,Thermal,France,1.1,12717
+Hyundai,Tucson,2016,73000,Thermal,Germany,2.3,3362
+Hyundai,Tucson,2016,73000,Thermal,USA,2.5,18412
+Kia,Telluride,2015,29000,Electric,France,1.6,17929
+Kia,Telluride,2015,29000,Electric,Germany,2.5,12437
+Kia,Telluride,2015,29000,Electric,USA,2.7,3373
+Kia,Optima,2021,43000,Thermal,France,2.1,6334
+Kia,Optima,2021,43000,Thermal,Germany,2.0,8485
+Kia,Optima,2021,43000,Thermal,USA,1.4,6248
+Nissan,Maxima,2015,71000,Thermal,France,3.4,4083
+Nissan,Maxima,2015,71000,Thermal,Germany,1.4,13836
+Nissan,Maxima,2015,71000,Thermal,USA,1.8,12000
+Acura,TLX,2010,27000,Electric,France,4.2,14953
+Acura,TLX,2010,27000,Electric,Germany,3.9,5738
+Acura,TLX,2010,27000,Electric,USA,2.2,8580
+BMW,X5,2014,34000,Thermal,France,4.3,2375
+BMW,X5,2014,34000,Thermal,Germany,4.7,4450
+BMW,X5,2014,34000,Thermal,USA,2.1,15100
+Fiat,500,2010,34000,Thermal,France,3.5,817
+Fiat,500,2010,34000,Thermal,Germany,4.6,6888
+Fiat,500,2010,34000,Thermal,USA,4.7,5857
+Chevrolet,Bolt,2012,62000,Electric,France,1.5,15175
+Chevrolet,Bolt,2012,62000,Electric,Germany,4.0,1902
+Chevrolet,Bolt,2012,62000,Electric,USA,2.5,6008
+Buick,Enclave,2012,66000,Thermal,France,2.4,16165
+Buick,Enclave,2012,66000,Thermal,Germany,3.8,13145
+Buick,Enclave,2012,66000,Thermal,USA,2.6,9396
+Renault,Scenic,2017,59000,Thermal,France,4.8,10399
+Renault,Scenic,2017,59000,Thermal,Germany,1.8,16700
+Renault,Scenic,2017,59000,Thermal,USA,3.6,14006
+Toyota,Prius,2012,54000,Electric,France,3.6,583
+Toyota,Prius,2012,54000,Electric,Germany,3.2,17217
+Toyota,Prius,2012,54000,Electric,USA,2.5,14314
+Renault,Kadjar,2011,51000,Thermal,France,2.8,18251
+Renault,Kadjar,2011,51000,Thermal,Germany,2.2,17252
+Renault,Kadjar,2011,51000,Thermal,USA,2.2,4322
+Peugeot,3008,2012,33000,Electric,France,4.4,17799
+Peugeot,3008,2012,33000,Electric,Germany,1.2,12867
+Peugeot,3008,2012,33000,Electric,USA,4.8,8292
+Nissan,Rogue,2021,33000,Electric,France,4.4,15849
+Nissan,Rogue,2021,33000,Electric,Germany,3.5,12477
+Nissan,Rogue,2021,33000,Electric,USA,3.8,17411
+Acura,MDX,2016,63000,Electric,France,2.2,13326
+Acura,MDX,2016,63000,Electric,Germany,1.3,7399
+Acura,MDX,2016,63000,Electric,USA,4.2,18139
+Kia,Telluride,2011,55000,Electric,France,3.5,628
+Kia,Telluride,2011,55000,Electric,Germany,4.8,12280
+Kia,Telluride,2011,55000,Electric,USA,3.6,1515
+Porsche,Macan,2022,28000,Thermal,France,4.1,11596
+Porsche,Macan,2022,28000,Thermal,Germany,2.7,18054
+Porsche,Macan,2022,28000,Thermal,USA,1.4,534
+Toyota,Highlander,2014,21000,Electric,France,3.1,2257
+Toyota,Highlander,2014,21000,Electric,Germany,2.4,5302
+Toyota,Highlander,2014,21000,Electric,USA,2.7,5983
+BMW,X5,2011,46000,Electric,France,3.1,11669
+BMW,X5,2011,46000,Electric,Germany,3.0,1442
+BMW,X5,2011,46000,Electric,USA,4.5,5534
+Jaguar,XE,2016,38000,Electric,France,1.4,10960
+Jaguar,XE,2016,38000,Electric,Germany,1.7,3484
+Jaguar,XE,2016,38000,Electric,USA,4.2,8317
+Jaguar,XE,2016,46000,Thermal,France,1.4,10960
+Jaguar,XE,2016,46000,Thermal,Germany,1.7,3484
+Jaguar,XE,2016,46000,Thermal,USA,4.2,8317
+Lexus,RX,2015,76000,Thermal,France,4.0,4426
+Lexus,RX,2015,76000,Thermal,Germany,3.7,10416
+Lexus,RX,2015,76000,Thermal,USA,4.8,13152
+Ford,Fusion,2020,75000,Electric,France,3.5,16150
+Ford,Fusion,2020,75000,Electric,Germany,4.7,16314
+Ford,Fusion,2020,75000,Electric,USA,1.8,7947
+Toyota,Prius,2014,62000,Electric,France,4.4,12215
+Toyota,Prius,2014,62000,Electric,Germany,1.7,6541
+Toyota,Prius,2014,62000,Electric,USA,1.5,12450
+Toyota,Prius,2014,79000,Thermal,France,4.4,12215
+Toyota,Prius,2014,79000,Thermal,Germany,1.7,6541
+Toyota,Prius,2014,79000,Thermal,USA,1.5,12450
+BMW,X5,2021,30000,Thermal,France,4.1,10976
+BMW,X5,2021,30000,Thermal,Germany,2.1,13174
+BMW,X5,2021,30000,Thermal,USA,1.9,2781
+BMW,X5,2016,36000,Thermal,France,1.9,15075
+BMW,X5,2016,36000,Thermal,Germany,2.1,17384
+BMW,X5,2016,36000,Thermal,USA,3.4,12191
+BMW,X5,2016,44000,Thermal,France,1.9,15075
+BMW,X5,2016,44000,Thermal,Germany,2.1,17384
+BMW,X5,2016,44000,Thermal,USA,3.4,12191
+Kia,Soul,2014,34000,Thermal,France,2.5,8794
+Kia,Soul,2014,34000,Thermal,Germany,3.3,7101
+Kia,Soul,2014,34000,Thermal,USA,4.9,9560
+Kia,Soul,2014,78000,Thermal,France,2.5,8794
+Kia,Soul,2014,78000,Thermal,Germany,3.3,7101
+Kia,Soul,2014,78000,Thermal,USA,4.9,9560
+Toyota,Corolla,2010,66000,Thermal,France,2.0,17745
+Toyota,Corolla,2010,66000,Thermal,Germany,2.3,17685
+Toyota,Corolla,2010,66000,Thermal,USA,2.5,4037
+Nissan,Murano,2014,26000,Electric,France,2.7,12391
+Nissan,Murano,2014,26000,Electric,Germany,2.7,6506
+Nissan,Murano,2014,26000,Electric,USA,4.0,8307
+Nissan,Murano,2014,67000,Thermal,France,2.7,12391
+Nissan,Murano,2014,67000,Thermal,Germany,2.7,6506
+Nissan,Murano,2014,67000,Thermal,USA,4.0,8307
+Volkswagen,Passat,2022,56000,Thermal,France,3.2,5653
+Volkswagen,Passat,2022,56000,Thermal,Germany,2.6,10527
+Volkswagen,Passat,2022,56000,Thermal,USA,1.9,3772
+Subaru,Forester,2022,52000,Electric,France,4.8,7185
+Subaru,Forester,2022,52000,Electric,Germany,3.2,16449
+Subaru,Forester,2022,52000,Electric,USA,2.9,7980
+Kia,Forte,2010,20000,Thermal,France,1.3,10954
+Kia,Forte,2010,20000,Thermal,Germany,3.3,3256
+Kia,Forte,2010,20000,Thermal,USA,4.0,14282
+Buick,Envision,2017,68000,Electric,France,3.8,3979
+Buick,Envision,2017,68000,Electric,Germany,4.0,10902
+Buick,Envision,2017,68000,Electric,USA,4.0,11975
+Mazda,Mazda3,2017,22000,Electric,France,4.6,4372
+Mazda,Mazda3,2017,22000,Electric,Germany,2.3,11959
+Mazda,Mazda3,2017,22000,Electric,USA,4.4,16344
+Toyota,Prius,2010,77000,Electric,France,4.0,8119
+Toyota,Prius,2010,77000,Electric,Germany,4.5,10642
+Toyota,Prius,2010,77000,Electric,USA,4.8,13922
+Toyota,Prius,2010,71000,Electric,France,4.0,8119
+Toyota,Prius,2010,71000,Electric,Germany,4.5,10642
+Toyota,Prius,2010,71000,Electric,USA,4.8,13922
+Ford,Fusion,2019,30000,Electric,France,1.2,11760
+Ford,Fusion,2019,30000,Electric,Germany,1.8,6757
+Ford,Fusion,2019,30000,Electric,USA,4.1,6899
+BMW,3 Series,2012,62000,Electric,France,2.5,10808
+BMW,3 Series,2012,62000,Electric,Germany,2.0,5580
+BMW,3 Series,2012,62000,Electric,USA,2.0,16874
+Toyota,Highlander,2011,22000,Thermal,France,1.6,5237
+Toyota,Highlander,2011,22000,Thermal,Germany,2.4,6325
+Toyota,Highlander,2011,22000,Thermal,USA,2.4,972
+Kia,Soul,2022,53000,Electric,France,3.2,14777
+Kia,Soul,2022,53000,Electric,Germany,2.8,1145
+Kia,Soul,2022,53000,Electric,USA,4.8,12753
+Kia,Soul,2022,44000,Electric,France,3.2,14777
+Kia,Soul,2022,44000,Electric,Germany,2.8,1145
+Kia,Soul,2022,44000,Electric,USA,4.8,12753
+Ford,F-150,2018,29000,Electric,France,4.8,18241
+Ford,F-150,2018,29000,Electric,Germany,1.4,15644
+Ford,F-150,2018,29000,Electric,USA,3.5,14197
+Mazda,MX-5,2014,23000,Thermal,France,1.5,3492
+Mazda,MX-5,2014,23000,Thermal,Germany,3.4,16314
+Mazda,MX-5,2014,23000,Thermal,USA,3.9,3090
+Fiat,500,2022,23000,Electric,France,2.4,8516
+Fiat,500,2022,23000,Electric,Germany,4.3,4212
+Fiat,500,2022,23000,Electric,USA,2.4,11000
+Volvo,XC90,2020,77000,Thermal,France,3.3,1460
+Volvo,XC90,2020,77000,Thermal,Germany,2.9,9521
+Volvo,XC90,2020,77000,Thermal,USA,1.8,17233
+Volvo,XC40,2010,30000,Thermal,France,3.7,4952
+Volvo,XC40,2010,30000,Thermal,Germany,2.2,739
+Volvo,XC40,2010,30000,Thermal,USA,4.1,2095
+Subaru,Ascent,2015,78000,Electric,France,2.4,8260
+Subaru,Ascent,2015,78000,Electric,Germany,2.3,9084
+Subaru,Ascent,2015,78000,Electric,USA,1.6,13151
+Audi,Q5,2015,66000,Thermal,France,4.1,10111
+Audi,Q5,2015,66000,Thermal,Germany,4.1,2573
+Audi,Q5,2015,66000,Thermal,USA,4.9,16563
+Peugeot,508,2022,79000,Thermal,France,2.4,9479
+Peugeot,508,2022,79000,Thermal,Germany,3.7,6304
+Peugeot,508,2022,79000,Thermal,USA,4.3,12269
+Tesla,Model Y,2021,80000,Electric,France,2.4,6221
+Tesla,Model Y,2021,80000,Electric,Germany,3.8,15596
+Tesla,Model Y,2021,80000,Electric,USA,1.8,15492
+Chevrolet,Bolt,2021,44000,Electric,France,2.4,16203
+Chevrolet,Bolt,2021,44000,Electric,Germany,1.8,1624
+Chevrolet,Bolt,2021,44000,Electric,USA,2.9,8601
+Honda,Civic,2016,69000,Thermal,France,2.7,17510
+Honda,Civic,2016,69000,Thermal,Germany,4.7,5005
+Honda,Civic,2016,69000,Thermal,USA,1.8,2424
+Jaguar,XF,2014,72000,Electric,France,3.3,1410
+Jaguar,XF,2014,72000,Electric,Germany,3.6,10173
+Jaguar,XF,2014,72000,Electric,USA,4.6,11074
+Fiat,124 Spider,2022,37000,Thermal,France,1.6,8760
+Fiat,124 Spider,2022,37000,Thermal,Germany,2.9,3901
+Fiat,124 Spider,2022,37000,Thermal,USA,4.2,15671
+Tesla,Model 3,2019,28000,Thermal,France,3.5,8708
+Tesla,Model 3,2019,28000,Thermal,Germany,2.7,12478
+Tesla,Model 3,2019,28000,Thermal,USA,2.9,9263
+Tesla,Model 3,2019,75000,Thermal,France,3.5,8708
+Tesla,Model 3,2019,75000,Thermal,Germany,2.7,12478
+Tesla,Model 3,2019,75000,Thermal,USA,2.9,9263
+Acura,MDX,2010,48000,Electric,France,1.5,8682
+Acura,MDX,2010,48000,Electric,Germany,2.6,7168
+Acura,MDX,2010,48000,Electric,USA,2.4,3338
+BMW,X3,2017,65000,Electric,France,4.2,3994
+BMW,X3,2017,65000,Electric,Germany,2.3,17328
+BMW,X3,2017,65000,Electric,USA,1.7,4479
+Porsche,Macan,2016,40000,Electric,France,2.4,16464
+Porsche,Macan,2016,40000,Electric,Germany,2.1,13674
+Porsche,Macan,2016,40000,Electric,USA,3.5,10800
+Toyota,Prius,2011,26000,Thermal,France,2.4,5014
+Toyota,Prius,2011,26000,Thermal,Germany,2.3,7487
+Toyota,Prius,2011,26000,Thermal,USA,3.4,16257
+Kia,Soul,2015,22000,Electric,France,4.2,10813
+Kia,Soul,2015,22000,Electric,Germany,3.3,1835
+Kia,Soul,2015,22000,Electric,USA,1.5,14935
+Mazda,MX-5,2013,51000,Electric,France,4.7,5159
+Mazda,MX-5,2013,51000,Electric,Germany,3.1,13746
+Mazda,MX-5,2013,51000,Electric,USA,4.8,13070
+Nissan,Maxima,2011,29000,Electric,France,1.5,10803
+Nissan,Maxima,2011,29000,Electric,Germany,1.4,7107
+Nissan,Maxima,2011,29000,Electric,USA,3.8,9221
+Fiat,500X,2013,51000,Thermal,France,1.8,2794
+Fiat,500X,2013,51000,Thermal,Germany,4.2,13806
+Fiat,500X,2013,51000,Thermal,USA,2.3,6452
+Jaguar,XE,2020,69000,Thermal,France,1.9,2100
+Jaguar,XE,2020,69000,Thermal,Germany,2.5,2497
+Jaguar,XE,2020,69000,Thermal,USA,2.6,18075
+Jaguar,XE,2020,78000,Thermal,France,1.9,2100
+Jaguar,XE,2020,78000,Thermal,Germany,2.5,2497
+Jaguar,XE,2020,78000,Thermal,USA,2.6,18075
+Ford,Explorer,2015,62000,Thermal,France,1.7,10885
+Ford,Explorer,2015,62000,Thermal,Germany,1.9,3448
+Ford,Explorer,2015,62000,Thermal,USA,3.2,4940
+Mercedes-Benz,C-Class,2019,62000,Electric,France,2.1,8563
+Mercedes-Benz,C-Class,2019,62000,Electric,Germany,3.7,10189
+Mercedes-Benz,C-Class,2019,62000,Electric,USA,3.1,8265
+BMW,3 Series,2022,28000,Thermal,France,1.5,8155
+BMW,3 Series,2022,28000,Thermal,Germany,2.3,10291
+BMW,3 Series,2022,28000,Thermal,USA,4.4,8432
+Mazda,Mazda6,2021,31000,Thermal,France,3.1,1511
+Mazda,Mazda6,2021,31000,Thermal,Germany,4.3,8176
+Mazda,Mazda6,2021,31000,Thermal,USA,1.5,15071
+Porsche,Taycan,2021,60000,Electric,France,1.1,3139
+Porsche,Taycan,2021,60000,Electric,Germany,2.8,18204
+Porsche,Taycan,2021,60000,Electric,USA,4.7,15264
+Jaguar,F-PACE,2019,49000,Electric,France,4.3,3789
+Jaguar,F-PACE,2019,49000,Electric,Germany,1.9,17372
+Jaguar,F-PACE,2019,49000,Electric,USA,2.8,13954
+Renault,Captur,2021,38000,Thermal,France,2.9,5654
+Renault,Captur,2021,38000,Thermal,Germany,3.5,5713
+Renault,Captur,2021,38000,Thermal,USA,4.8,11623
+Renault,Captur,2021,58000,Electric,France,2.9,5654
+Renault,Captur,2021,58000,Electric,Germany,3.5,5713
+Renault,Captur,2021,58000,Electric,USA,4.8,11623
+Buick,Encore,2014,52000,Electric,France,3.4,6490
+Buick,Encore,2014,52000,Electric,Germany,2.1,16959
+Buick,Encore,2014,52000,Electric,USA,2.0,6930
+Mazda,Mazda6,2013,33000,Electric,France,3.2,15356
+Mazda,Mazda6,2013,33000,Electric,Germany,4.0,5349
+Mazda,Mazda6,2013,33000,Electric,USA,3.4,15965
+Mazda,Mazda6,2013,63000,Electric,France,3.2,15356
+Mazda,Mazda6,2013,63000,Electric,Germany,4.0,5349
+Mazda,Mazda6,2013,63000,Electric,USA,3.4,15965
+Ford,Mustang,2012,28000,Electric,France,2.4,1966
+Ford,Mustang,2012,28000,Electric,Germany,4.4,1145
+Ford,Mustang,2012,28000,Electric,USA,2.8,12508
+Ford,Fusion,2014,35000,Thermal,France,1.6,5019
+Ford,Fusion,2014,35000,Thermal,Germany,4.4,2136
+Ford,Fusion,2014,35000,Thermal,USA,1.3,12357
+Subaru,Ascent,2014,24000,Thermal,France,4.8,7398
+Subaru,Ascent,2014,24000,Thermal,Germany,1.9,6877
+Subaru,Ascent,2014,24000,Thermal,USA,2.2,12044
+Volvo,S60,2022,77000,Thermal,France,3.9,1270
+Volvo,S60,2022,77000,Thermal,Germany,4.0,4603
+Volvo,S60,2022,77000,Thermal,USA,2.7,16169
+Toyota,Camry,2010,36000,Thermal,France,3.7,10487
+Toyota,Camry,2010,36000,Thermal,Germany,3.3,15582
+Toyota,Camry,2010,36000,Thermal,USA,3.4,5972
+Acura,TLX,2020,76000,Electric,France,3.6,3714
+Acura,TLX,2020,76000,Electric,Germany,4.8,5987
+Acura,TLX,2020,76000,Electric,USA,1.7,17352
+BMW,X3,2015,69000,Thermal,France,2.9,16294
+BMW,X3,2015,69000,Thermal,Germany,3.7,9093
+BMW,X3,2015,69000,Thermal,USA,1.7,17099
+Chevrolet,Equinox,2015,77000,Electric,France,2.4,8478
+Chevrolet,Equinox,2015,77000,Electric,Germany,3.9,14782
+Chevrolet,Equinox,2015,77000,Electric,USA,4.5,12572
+Chevrolet,Equinox,2015,44000,Electric,France,2.4,8478
+Chevrolet,Equinox,2015,44000,Electric,Germany,3.9,14782
+Chevrolet,Equinox,2015,44000,Electric,USA,4.5,12572
+Mercedes-Benz,E-Class,2021,55000,Electric,France,3.0,4033
+Mercedes-Benz,E-Class,2021,55000,Electric,Germany,2.2,1289
+Mercedes-Benz,E-Class,2021,55000,Electric,USA,3.3,14707
+Ford,Escape,2016,75000,Electric,France,4.1,11306
+Ford,Escape,2016,75000,Electric,Germany,3.0,12827
+Ford,Escape,2016,75000,Electric,USA,1.6,2800
+Buick,Encore,2013,31000,Electric,France,2.3,5973
+Buick,Encore,2013,31000,Electric,Germany,3.3,14084
+Buick,Encore,2013,31000,Electric,USA,3.7,17206
+Vauxhall,Astra,2014,60000,Electric,France,1.7,17931
+Vauxhall,Astra,2014,60000,Electric,Germany,2.3,14691
+Vauxhall,Astra,2014,60000,Electric,USA,3.0,4613
+Vauxhall,Astra,2022,30000,Thermal,France,4.4,11698
+Vauxhall,Astra,2022,30000,Thermal,Germany,4.5,5603
+Vauxhall,Astra,2022,30000,Thermal,USA,1.2,7046
+Volvo,S60,2013,42000,Electric,France,4.0,5429
+Volvo,S60,2013,42000,Electric,Germany,2.2,7562
+Volvo,S60,2013,42000,Electric,USA,3.7,13065
+Fiat,Panda,2021,31000,Thermal,France,2.6,11562
+Fiat,Panda,2021,31000,Thermal,Germany,4.2,9282
+Fiat,Panda,2021,31000,Thermal,USA,1.9,18361
+Kia,Sportage,2013,25000,Thermal,France,1.2,14566
+Kia,Sportage,2013,25000,Thermal,Germany,1.6,14534
+Kia,Sportage,2013,25000,Thermal,USA,4.2,11922
+Lexus,LS,2014,63000,Electric,France,3.4,15929
+Lexus,LS,2014,63000,Electric,Germany,1.9,9328
+Lexus,LS,2014,63000,Electric,USA,2.5,5412
+Lexus,LS,2014,74000,Electric,France,3.4,15929
+Lexus,LS,2014,74000,Electric,Germany,1.9,9328
+Lexus,LS,2014,74000,Electric,USA,2.5,5412
+Ford,Fusion,2015,75000,Thermal,France,2.3,16638
+Ford,Fusion,2015,75000,Thermal,Germany,2.8,1102
+Ford,Fusion,2015,75000,Thermal,USA,3.3,16796
+BMW,5 Series,2013,39000,Thermal,France,2.3,1002
+BMW,5 Series,2013,39000,Thermal,Germany,4.6,14794
+BMW,5 Series,2013,39000,Thermal,USA,1.8,17447
+Buick,Encore,2022,76000,Electric,France,2.4,17569
+Buick,Encore,2022,76000,Electric,Germany,3.0,4076
+Buick,Encore,2022,76000,Electric,USA,2.4,1173
+Buick,Encore,2022,37000,Thermal,France,2.4,17569
+Buick,Encore,2022,37000,Thermal,Germany,3.0,4076
+Buick,Encore,2022,37000,Thermal,USA,2.4,1173
+Audi,Q5,2012,37000,Electric,France,1.6,9447
+Audi,Q5,2012,37000,Electric,Germany,3.8,5335
+Audi,Q5,2012,37000,Electric,USA,3.8,14089
+Nissan,Altima,2016,29000,Thermal,France,1.8,16267
+Nissan,Altima,2016,29000,Thermal,Germany,2.3,11408
+Nissan,Altima,2016,29000,Thermal,USA,1.4,11902
+Buick,Enclave,2021,67000,Thermal,France,4.2,4225
+Buick,Enclave,2021,67000,Thermal,Germany,3.8,8805
+Buick,Enclave,2021,67000,Thermal,USA,3.9,16798
+Ford,Fusion,2013,71000,Electric,France,4.3,2193
+Ford,Fusion,2013,71000,Electric,Germany,4.3,7253
+Ford,Fusion,2013,71000,Electric,USA,4.3,14760
+Volkswagen,Jetta,2016,79000,Thermal,France,3.7,11678
+Volkswagen,Jetta,2016,79000,Thermal,Germany,1.6,7036
+Volkswagen,Jetta,2016,79000,Thermal,USA,1.3,8780
+Renault,Kadjar,2020,50000,Electric,France,2.7,4551
+Renault,Kadjar,2020,50000,Electric,Germany,1.8,10187
+Renault,Kadjar,2020,50000,Electric,USA,1.4,14832
+Lexus,ES,2020,69000,Electric,France,4.7,15939
+Lexus,ES,2020,69000,Electric,Germany,4.6,15451
+Lexus,ES,2020,69000,Electric,USA,4.2,11504
+Ford,Escape,2014,26000,Thermal,France,2.8,14860
+Ford,Escape,2014,26000,Thermal,Germany,4.7,5486
+Ford,Escape,2014,26000,Thermal,USA,4.4,1181
+Audi,A4,2021,75000,Thermal,France,3.1,11701
+Audi,A4,2021,75000,Thermal,Germany,3.0,7572
+Audi,A4,2021,75000,Thermal,USA,2.0,18002
+Audi,A4,2021,34000,Electric,France,3.1,11701
+Audi,A4,2021,34000,Electric,Germany,3.0,7572
+Audi,A4,2021,34000,Electric,USA,2.0,18002
+Lexus,RX,2021,36000,Thermal,France,4.4,9647
+Lexus,RX,2021,36000,Thermal,Germany,1.2,5033
+Lexus,RX,2021,36000,Thermal,USA,3.3,5600
+Mazda,Mazda3,2010,77000,Electric,France,2.9,15119
+Mazda,Mazda3,2010,77000,Electric,Germany,1.1,14514
+Mazda,Mazda3,2010,77000,Electric,USA,1.2,16934
+Peugeot,5008,2010,74000,Thermal,France,2.0,15298
+Peugeot,5008,2010,74000,Thermal,Germany,2.0,1462
+Peugeot,5008,2010,74000,Thermal,USA,4.2,10342
+Vauxhall,Insignia,2019,37000,Electric,France,1.3,5759
+Vauxhall,Insignia,2019,37000,Electric,Germany,4.5,9954
+Vauxhall,Insignia,2019,37000,Electric,USA,1.4,16793
+Renault,Captur,2011,45000,Electric,France,4.8,3426
+Renault,Captur,2011,45000,Electric,Germany,3.8,14102
+Renault,Captur,2011,45000,Electric,USA,2.8,8270
+Renault,Captur,2011,73000,Thermal,France,4.8,3426
+Renault,Captur,2011,73000,Thermal,Germany,3.8,14102
+Renault,Captur,2011,73000,Thermal,USA,2.8,8270
+Mazda,Mazda3,2014,64000,Thermal,France,3.0,12143
+Mazda,Mazda3,2014,64000,Thermal,Germany,1.7,11762
+Mazda,Mazda3,2014,64000,Thermal,USA,1.2,5086
+Volkswagen,Jetta,2019,22000,Electric,France,1.7,4029
+Volkswagen,Jetta,2019,22000,Electric,Germany,2.6,948
+Volkswagen,Jetta,2019,22000,Electric,USA,2.3,18169
+Nissan,Maxima,2012,77000,Thermal,France,3.1,3147
+Nissan,Maxima,2012,77000,Thermal,Germany,1.2,12347
+Nissan,Maxima,2012,77000,Thermal,USA,4.4,6662
+Toyota,Highlander,2017,71000,Thermal,France,2.1,14263
+Toyota,Highlander,2017,71000,Thermal,Germany,3.4,7454
+Toyota,Highlander,2017,71000,Thermal,USA,2.8,15849
+Mazda,Mazda6,2019,46000,Thermal,France,4.1,17081
+Mazda,Mazda6,2019,46000,Thermal,Germany,4.6,14053
+Mazda,Mazda6,2019,46000,Thermal,USA,2.7,13561
+Mazda,Mazda6,2019,43000,Electric,France,4.1,17081
+Mazda,Mazda6,2019,43000,Electric,Germany,4.6,14053
+Mazda,Mazda6,2019,43000,Electric,USA,2.7,13561
+Acura,RDX,2018,34000,Thermal,France,1.4,13098
+Acura,RDX,2018,34000,Thermal,Germany,3.0,5582
+Acura,RDX,2018,34000,Thermal,USA,1.8,7034
+Subaru,Legacy,2022,45000,Thermal,France,3.1,16465
+Subaru,Legacy,2022,45000,Thermal,Germany,2.6,10914
+Subaru,Legacy,2022,45000,Thermal,USA,1.1,826
+Subaru,Legacy,2022,62000,Electric,France,3.1,16465
+Subaru,Legacy,2022,62000,Electric,Germany,2.6,10914
+Subaru,Legacy,2022,62000,Electric,USA,1.1,826
+Honda,Pilot,2022,39000,Electric,France,1.7,3339
+Honda,Pilot,2022,39000,Electric,Germany,2.8,6098
+Honda,Pilot,2022,39000,Electric,USA,4.9,11474
+Toyota,Rav4,2012,66000,Thermal,France,3.8,5438
+Toyota,Rav4,2012,66000,Thermal,Germany,3.1,12272
+Toyota,Rav4,2012,66000,Thermal,USA,4.1,3821
+Toyota,Rav4,2012,48000,Electric,France,3.8,5438
+Toyota,Rav4,2012,48000,Electric,Germany,3.1,12272
+Toyota,Rav4,2012,48000,Electric,USA,4.1,3821
+Toyota,Rav4,2012,29000,Thermal,France,3.8,5438
+Toyota,Rav4,2012,29000,Thermal,Germany,3.1,12272
+Toyota,Rav4,2012,29000,Thermal,USA,4.1,3821
+Hyundai,Santa Fe,2010,42000,Thermal,France,1.6,556
+Hyundai,Santa Fe,2010,42000,Thermal,Germany,4.9,2006
+Hyundai,Santa Fe,2010,42000,Thermal,USA,4.5,12540
+Buick,Envision,2014,31000,Electric,France,3.5,14071
+Buick,Envision,2014,31000,Electric,Germany,2.0,18476
+Buick,Envision,2014,31000,Electric,USA,1.9,4356
+Nissan,Murano,2016,56000,Thermal,France,3.4,14006
+Nissan,Murano,2016,56000,Thermal,Germany,3.7,14524
+Nissan,Murano,2016,56000,Thermal,USA,4.2,18293
+Nissan,Murano,2016,45000,Thermal,France,3.4,14006
+Nissan,Murano,2016,45000,Thermal,Germany,3.7,14524
+Nissan,Murano,2016,45000,Thermal,USA,4.2,18293
+Honda,Fit,2014,80000,Thermal,France,4.7,15185
+Honda,Fit,2014,80000,Thermal,Germany,1.2,6774
+Honda,Fit,2014,80000,Thermal,USA,2.0,11802
+Honda,Fit,2019,70000,Electric,France,3.7,4473
+Honda,Fit,2019,70000,Electric,Germany,1.5,11012
+Honda,Fit,2019,70000,Electric,USA,2.4,8855
+Hyundai,Tucson,2010,50000,Thermal,France,2.7,5434
+Hyundai,Tucson,2010,50000,Thermal,Germany,3.7,15942
+Hyundai,Tucson,2010,50000,Thermal,USA,2.9,15999
+Honda,CR-V,2012,48000,Thermal,France,2.1,2734
+Honda,CR-V,2012,48000,Thermal,Germany,4.2,10635
+Honda,CR-V,2012,48000,Thermal,USA,4.0,7331
+Chevrolet,Malibu,2013,30000,Electric,France,3.0,11095
+Chevrolet,Malibu,2013,30000,Electric,Germany,2.4,3915
+Chevrolet,Malibu,2013,30000,Electric,USA,1.5,4067
+Mazda,MX-5,2022,29000,Thermal,France,2.7,9319
+Mazda,MX-5,2022,29000,Thermal,Germany,2.7,15312
+Mazda,MX-5,2022,29000,Thermal,USA,4.4,8233
+Kia,Telluride,2019,37000,Thermal,France,1.9,15846
+Kia,Telluride,2019,37000,Thermal,Germany,4.3,10178
+Kia,Telluride,2019,37000,Thermal,USA,4.3,12108
+Acura,TLX,2017,35000,Electric,France,4.0,8743
+Acura,TLX,2017,35000,Electric,Germany,3.6,17726
+Acura,TLX,2017,35000,Electric,USA,3.1,11975
+Acura,TLX,2017,62000,Thermal,France,4.0,8743
+Acura,TLX,2017,62000,Thermal,Germany,3.6,17726
+Acura,TLX,2017,62000,Thermal,USA,3.1,11975
+Hyundai,Tucson,2014,53000,Electric,France,3.9,7496
+Hyundai,Tucson,2014,53000,Electric,Germany,3.5,11854
+Hyundai,Tucson,2014,53000,Electric,USA,4.4,9636
+Vauxhall,Crossland X,2015,46000,Thermal,France,3.3,16601
+Vauxhall,Crossland X,2015,46000,Thermal,Germany,2.6,12855
+Vauxhall,Crossland X,2015,46000,Thermal,USA,4.6,12534
+Lexus,GX,2011,35000,Electric,France,1.3,2533
+Lexus,GX,2011,35000,Electric,Germany,2.0,15004
+Lexus,GX,2011,35000,Electric,USA,3.2,17883
+Fiat,124 Spider,2016,50000,Electric,France,2.8,5943
+Fiat,124 Spider,2016,50000,Electric,Germany,4.1,2129
+Fiat,124 Spider,2016,50000,Electric,USA,1.7,624
+Volkswagen,Passat,2018,37000,Electric,France,3.1,5064
+Volkswagen,Passat,2018,37000,Electric,Germany,4.5,12666
+Volkswagen,Passat,2018,37000,Electric,USA,4.7,10168
+Lexus,ES,2010,51000,Thermal,France,1.6,926
+Lexus,ES,2010,51000,Thermal,Germany,3.7,4964
+Lexus,ES,2010,51000,Thermal,USA,2.4,10866
+Ford,Fusion,2017,30000,Electric,France,1.9,4003
+Ford,Fusion,2017,30000,Electric,Germany,4.8,559
+Ford,Fusion,2017,30000,Electric,USA,2.4,16719
+Fiat,Panda,2018,57000,Electric,France,1.6,11281
+Fiat,Panda,2018,57000,Electric,Germany,1.7,16598
+Fiat,Panda,2018,57000,Electric,USA,2.5,14488
+Honda,CR-V,2019,42000,Electric,France,4.7,9423
+Honda,CR-V,2019,42000,Electric,Germany,1.8,10876
+Honda,CR-V,2019,42000,Electric,USA,2.5,11668
+Buick,Encore,2010,51000,Thermal,France,4.0,17408
+Buick,Encore,2010,51000,Thermal,Germany,3.9,709
+Buick,Encore,2010,51000,Thermal,USA,4.0,2483
+Buick,Encore,2010,49000,Thermal,France,4.0,17408
+Buick,Encore,2010,49000,Thermal,Germany,3.9,709
+Buick,Encore,2010,49000,Thermal,USA,4.0,2483
+Hyundai,Palisade,2015,60000,Thermal,France,1.2,15160
+Hyundai,Palisade,2015,60000,Thermal,Germany,4.6,9444
+Hyundai,Palisade,2015,60000,Thermal,USA,2.4,14089
+Tesla,Model S,2013,36000,Thermal,France,2.1,17135
+Tesla,Model S,2013,36000,Thermal,Germany,2.7,7375
+Tesla,Model S,2013,36000,Thermal,USA,3.9,4014
+Honda,Pilot,2020,71000,Thermal,France,1.3,11300
+Honda,Pilot,2020,71000,Thermal,Germany,1.1,4206
+Honda,Pilot,2020,71000,Thermal,USA,1.4,5546
+Tesla,Model Y,2011,39000,Thermal,France,4.0,11106
+Tesla,Model Y,2011,39000,Thermal,Germany,2.8,3480
+Tesla,Model Y,2011,39000,Thermal,USA,3.8,5516
+Tesla,Model Y,2011,61000,Electric,France,4.0,11106
+Tesla,Model Y,2011,61000,Electric,Germany,2.8,3480
+Tesla,Model Y,2011,61000,Electric,USA,3.8,5516
+Hyundai,Elantra,2015,56000,Electric,France,3.3,5933
+Hyundai,Elantra,2015,56000,Electric,Germany,1.5,4280
+Hyundai,Elantra,2015,56000,Electric,USA,1.4,18220
+Jaguar,I-PACE,2019,53000,Electric,France,4.3,18082
+Jaguar,I-PACE,2019,53000,Electric,Germany,1.3,3747
+Jaguar,I-PACE,2019,53000,Electric,USA,2.4,15275
+Tesla,Model Y,2019,57000,Electric,France,2.8,18442
+Tesla,Model Y,2019,57000,Electric,Germany,4.8,14884
+Tesla,Model Y,2019,57000,Electric,USA,3.4,16052
+Mercedes-Benz,GLE,2021,80000,Thermal,France,1.5,1385
+Mercedes-Benz,GLE,2021,80000,Thermal,Germany,4.8,8700
+Mercedes-Benz,GLE,2021,80000,Thermal,USA,1.8,9091
+Volkswagen,Jetta,2018,75000,Electric,France,2.6,1949
+Volkswagen,Jetta,2018,75000,Electric,Germany,4.8,14813
+Volkswagen,Jetta,2018,75000,Electric,USA,1.4,8177
+Ford,F-150,2016,44000,Thermal,France,4.8,7959
+Ford,F-150,2016,44000,Thermal,Germany,1.5,18287
+Ford,F-150,2016,44000,Thermal,USA,1.9,16230
+Ford,F-150,2016,38000,Electric,France,4.8,7959
+Ford,F-150,2016,38000,Electric,Germany,1.5,18287
+Ford,F-150,2016,38000,Electric,USA,1.9,16230
+Jaguar,XE,2012,20000,Electric,France,4.3,16370
+Jaguar,XE,2012,20000,Electric,Germany,4.3,9641
+Jaguar,XE,2012,20000,Electric,USA,4.8,8997
+Toyota,Corolla,2012,23000,Thermal,France,1.4,2694
+Toyota,Corolla,2012,23000,Thermal,Germany,2.7,7941
+Toyota,Corolla,2012,23000,Thermal,USA,4.3,695
+Mercedes-Benz,GLC,2016,57000,Electric,France,2.3,14662
+Mercedes-Benz,GLC,2016,57000,Electric,Germany,3.1,15585
+Mercedes-Benz,GLC,2016,57000,Electric,USA,2.1,16623
+Volvo,XC40,2011,55000,Thermal,France,2.7,9983
+Volvo,XC40,2011,55000,Thermal,Germany,1.4,10549
+Volvo,XC40,2011,55000,Thermal,USA,2.9,7874
+Buick,Regal,2018,57000,Thermal,France,4.0,16687
+Buick,Regal,2018,57000,Thermal,Germany,1.5,3121
+Buick,Regal,2018,57000,Thermal,USA,4.6,10104
+Volkswagen,Passat,2019,25000,Thermal,France,2.9,17987
+Volkswagen,Passat,2019,25000,Thermal,Germany,3.0,11484
+Volkswagen,Passat,2019,25000,Thermal,USA,4.4,8308
+Audi,Q7,2012,69000,Electric,France,3.9,4519
+Audi,Q7,2012,69000,Electric,Germany,2.1,4997
+Audi,Q7,2012,69000,Electric,USA,4.0,10606
+Vauxhall,Insignia,2020,42000,Electric,France,4.3,10056
+Vauxhall,Insignia,2020,42000,Electric,Germany,2.2,14077
+Vauxhall,Insignia,2020,42000,Electric,USA,3.1,13106
+Tesla,Model X,2010,61000,Electric,France,1.7,833
+Tesla,Model X,2010,61000,Electric,Germany,2.1,10152
+Tesla,Model X,2010,61000,Electric,USA,3.0,13229
+Tesla,Model X,2010,70000,Thermal,France,1.7,833
+Tesla,Model X,2010,70000,Thermal,Germany,2.1,10152
+Tesla,Model X,2010,70000,Thermal,USA,3.0,13229
+Vauxhall,Crossland X,2018,68000,Thermal,France,4.6,8070
+Vauxhall,Crossland X,2018,68000,Thermal,Germany,2.2,6722
+Vauxhall,Crossland X,2018,68000,Thermal,USA,4.1,3387
+Volvo,XC40,2016,58000,Thermal,France,2.0,1439
+Volvo,XC40,2016,58000,Thermal,Germany,1.7,1914
+Volvo,XC40,2016,58000,Thermal,USA,4.9,11222
+Fiat,124 Spider,2011,66000,Electric,France,3.2,3740
+Fiat,124 Spider,2011,66000,Electric,Germany,1.7,10110
+Fiat,124 Spider,2011,66000,Electric,USA,2.2,10662
+Ford,Fusion,2012,20000,Thermal,France,3.6,7662
+Ford,Fusion,2012,20000,Thermal,Germany,1.6,9131
+Ford,Fusion,2012,20000,Thermal,USA,2.7,11753
+Kia,Forte,2013,54000,Electric,France,1.1,10109
+Kia,Forte,2013,54000,Electric,Germany,3.9,10684
+Kia,Forte,2013,54000,Electric,USA,3.6,14134
+Chevrolet,Bolt,2022,41000,Electric,France,4.9,3202
+Chevrolet,Bolt,2022,41000,Electric,Germany,2.5,7831
+Chevrolet,Bolt,2022,41000,Electric,USA,3.5,1758
+Chevrolet,Bolt,2022,70000,Thermal,France,4.9,3202
+Chevrolet,Bolt,2022,70000,Thermal,Germany,2.5,7831
+Chevrolet,Bolt,2022,70000,Thermal,USA,3.5,1758
+Audi,A6,2013,32000,Thermal,France,1.8,4439
+Audi,A6,2013,32000,Thermal,Germany,4.7,2502
+Audi,A6,2013,32000,Thermal,USA,4.9,4690
+Mercedes-Benz,C-Class,2021,52000,Electric,France,2.1,6153
+Mercedes-Benz,C-Class,2021,52000,Electric,Germany,4.5,16580
+Mercedes-Benz,C-Class,2021,52000,Electric,USA,3.0,11297
+Toyota,Highlander,2013,28000,Thermal,France,1.4,11429
+Toyota,Highlander,2013,28000,Thermal,Germany,1.9,12974
+Toyota,Highlander,2013,28000,Thermal,USA,4.8,7704
+Ford,F-150,2012,20000,Thermal,France,4.4,14455
+Ford,F-150,2012,20000,Thermal,Germany,1.8,7991
+Ford,F-150,2012,20000,Thermal,USA,2.3,2787
+Ford,F-150,2012,77000,Thermal,France,4.4,14455
+Ford,F-150,2012,77000,Thermal,Germany,1.8,7991
+Ford,F-150,2012,77000,Thermal,USA,2.3,2787
+Acura,RLX,2017,23000,Thermal,France,2.8,2894
+Acura,RLX,2017,23000,Thermal,Germany,2.2,9972
+Acura,RLX,2017,23000,Thermal,USA,1.7,13403
+Acura,RLX,2017,49000,Thermal,France,2.8,2894
+Acura,RLX,2017,49000,Thermal,Germany,2.2,9972
+Acura,RLX,2017,49000,Thermal,USA,1.7,13403
+Subaru,Impreza,2013,53000,Electric,France,4.4,14426
+Subaru,Impreza,2013,53000,Electric,Germany,2.8,2268
+Subaru,Impreza,2013,53000,Electric,USA,2.0,7786
+Tesla,Model X,2021,30000,Thermal,France,2.3,4279
+Tesla,Model X,2021,30000,Thermal,Germany,1.4,18415
+Tesla,Model X,2021,30000,Thermal,USA,4.4,11738
+Tesla,Model X,2021,36000,Thermal,France,2.3,4279
+Tesla,Model X,2021,36000,Thermal,Germany,1.4,18415
+Tesla,Model X,2021,36000,Thermal,USA,4.4,11738
+Volkswagen,Jetta,2022,40000,Thermal,France,3.4,17968
+Volkswagen,Jetta,2022,40000,Thermal,Germany,4.5,15280
+Volkswagen,Jetta,2022,40000,Thermal,USA,2.8,9681
+Audi,e-tron,2018,47000,Thermal,France,4.2,11400
+Audi,e-tron,2018,47000,Thermal,Germany,1.2,16026
+Audi,e-tron,2018,47000,Thermal,USA,4.6,12733
+Toyota,Corolla,2022,69000,Thermal,France,3.4,10931
+Toyota,Corolla,2022,69000,Thermal,Germany,4.0,10993
+Toyota,Corolla,2022,69000,Thermal,USA,4.6,4265
+Ford,Escape,2021,41000,Electric,France,3.9,14929
+Ford,Escape,2021,41000,Electric,Germany,4.5,14654
+Ford,Escape,2021,41000,Electric,USA,1.6,16598
+Fiat,Tipo,2010,26000,Thermal,France,2.1,17283
+Fiat,Tipo,2010,26000,Thermal,Germany,1.5,15346
+Fiat,Tipo,2010,26000,Thermal,USA,2.2,15006
+Toyota,Prius,2016,36000,Electric,France,4.5,13309
+Toyota,Prius,2016,36000,Electric,Germany,3.9,9557
+Toyota,Prius,2016,36000,Electric,USA,2.7,11778
+Fiat,Tipo,2011,71000,Thermal,France,2.9,12301
+Fiat,Tipo,2011,71000,Thermal,Germany,4.6,7796
+Fiat,Tipo,2011,71000,Thermal,USA,3.2,3071
+Fiat,124 Spider,2015,68000,Electric,France,2.1,7977
+Fiat,124 Spider,2015,68000,Electric,Germany,2.6,17147
+Fiat,124 Spider,2015,68000,Electric,USA,3.0,958
+Ford,Explorer,2020,33000,Electric,France,4.4,8770
+Ford,Explorer,2020,33000,Electric,Germany,4.0,2220
+Ford,Explorer,2020,33000,Electric,USA,1.1,3857
+Chevrolet,Traverse,2017,35000,Electric,France,2.4,11195
+Chevrolet,Traverse,2017,35000,Electric,Germany,3.5,16893
+Chevrolet,Traverse,2017,35000,Electric,USA,3.4,3506
+BMW,7 Series,2013,34000,Thermal,France,3.6,5949
+BMW,7 Series,2013,34000,Thermal,Germany,2.1,6937
+BMW,7 Series,2013,34000,Thermal,USA,4.5,8791
+Nissan,Rogue,2010,29000,Thermal,France,1.6,17814
+Nissan,Rogue,2010,29000,Thermal,Germany,2.7,15044
+Nissan,Rogue,2010,29000,Thermal,USA,4.5,16471
+Chevrolet,Traverse,2019,48000,Electric,France,3.5,12166
+Chevrolet,Traverse,2019,48000,Electric,Germany,2.9,1010
+Chevrolet,Traverse,2019,48000,Electric,USA,4.1,16823
+Nissan,Murano,2020,39000,Electric,France,2.4,16416
+Nissan,Murano,2020,39000,Electric,Germany,4.0,17860
+Nissan,Murano,2020,39000,Electric,USA,2.3,11060
+Peugeot,508,2013,55000,Thermal,France,2.4,8590
+Peugeot,508,2013,55000,Thermal,Germany,4.0,9263
+Peugeot,508,2013,55000,Thermal,USA,4.8,14821
+Lexus,NX,2014,70000,Electric,France,2.1,13959
+Lexus,NX,2014,70000,Electric,Germany,3.6,8247
+Lexus,NX,2014,70000,Electric,USA,4.8,626
+BMW,3 Series,2021,72000,Electric,France,4.6,13904
+BMW,3 Series,2021,72000,Electric,Germany,4.8,3152
+BMW,3 Series,2021,72000,Electric,USA,4.1,9500
+Chevrolet,Equinox,2022,63000,Thermal,France,4.2,5034
+Chevrolet,Equinox,2022,63000,Thermal,Germany,1.9,18282
+Chevrolet,Equinox,2022,63000,Thermal,USA,1.6,13962
+Chevrolet,Equinox,2022,71000,Electric,France,4.2,5034
+Chevrolet,Equinox,2022,71000,Electric,Germany,1.9,18282
+Chevrolet,Equinox,2022,71000,Electric,USA,1.6,13962
+Hyundai,Sonata,2012,73000,Electric,France,2.7,2282
+Hyundai,Sonata,2012,73000,Electric,Germany,2.6,18486
+Hyundai,Sonata,2012,73000,Electric,USA,3.8,11050
+Mercedes-Benz,C-Class,2012,44000,Thermal,France,2.5,10166
+Mercedes-Benz,C-Class,2012,44000,Thermal,Germany,2.2,16607
+Mercedes-Benz,C-Class,2012,44000,Thermal,USA,4.1,2085
+Audi,A4,2016,55000,Electric,France,4.3,1223
+Audi,A4,2016,55000,Electric,Germany,4.6,8846
+Audi,A4,2016,55000,Electric,USA,3.4,12893
+Buick,Encore,2019,52000,Electric,France,1.4,9081
+Buick,Encore,2019,52000,Electric,Germany,3.8,15128
+Buick,Encore,2019,52000,Electric,USA,3.7,5526
+Lexus,ES,2021,25000,Electric,France,3.8,2436
+Lexus,ES,2021,25000,Electric,Germany,3.9,5029
+Lexus,ES,2021,25000,Electric,USA,2.1,9497
+Vauxhall,Astra,2010,38000,Thermal,France,4.1,5256
+Vauxhall,Astra,2010,38000,Thermal,Germany,4.0,12793
+Vauxhall,Astra,2010,38000,Thermal,USA,3.5,8268
+Porsche,Macan,2020,39000,Thermal,France,4.8,4089
+Porsche,Macan,2020,39000,Thermal,Germany,2.4,3780
+Porsche,Macan,2020,39000,Thermal,USA,3.4,6422
+Chevrolet,Equinox,2016,44000,Thermal,France,3.0,1085
+Chevrolet,Equinox,2016,44000,Thermal,Germany,3.9,5072
+Chevrolet,Equinox,2016,44000,Thermal,USA,2.3,3074
+Chevrolet,Equinox,2016,74000,Thermal,France,3.0,1085
+Chevrolet,Equinox,2016,74000,Thermal,Germany,3.9,5072
+Chevrolet,Equinox,2016,74000,Thermal,USA,2.3,3074
+Vauxhall,Crossland X,2013,29000,Electric,France,1.4,13468
+Vauxhall,Crossland X,2013,29000,Electric,Germany,3.9,11855
+Vauxhall,Crossland X,2013,29000,Electric,USA,4.6,5934
+Volvo,S60,2011,78000,Thermal,France,2.1,16987
+Volvo,S60,2011,78000,Thermal,Germany,4.1,5108
+Volvo,S60,2011,78000,Thermal,USA,3.5,10679
+Mercedes-Benz,S-Class,2013,80000,Electric,France,2.9,13071
+Mercedes-Benz,S-Class,2013,80000,Electric,Germany,1.4,16477
+Mercedes-Benz,S-Class,2013,80000,Electric,USA,4.0,11132
+Volvo,XC90,2022,32000,Electric,France,4.7,12522
+Volvo,XC90,2022,32000,Electric,Germany,3.3,16383
+Volvo,XC90,2022,32000,Electric,USA,2.7,14153
+Mercedes-Benz,E-Class,2010,25000,Thermal,France,1.2,12522
+Mercedes-Benz,E-Class,2010,25000,Thermal,Germany,4.3,5508
+Mercedes-Benz,E-Class,2010,25000,Thermal,USA,2.7,13312
+Peugeot,308,2021,72000,Thermal,France,3.5,10211
+Peugeot,308,2021,72000,Thermal,Germany,2.4,8643
+Peugeot,308,2021,72000,Thermal,USA,2.9,8734
+Porsche,Panamera,2015,72000,Thermal,France,4.5,15719
+Porsche,Panamera,2015,72000,Thermal,Germany,4.3,17784
+Porsche,Panamera,2015,72000,Thermal,USA,4.6,14864
+Porsche,Panamera,2015,43000,Electric,France,4.5,15719
+Porsche,Panamera,2015,43000,Electric,Germany,4.3,17784
+Porsche,Panamera,2015,43000,Electric,USA,4.6,14864
+BMW,7 Series,2014,67000,Thermal,France,3.1,6051
+BMW,7 Series,2014,67000,Thermal,Germany,2.3,5422
+BMW,7 Series,2014,67000,Thermal,USA,3.7,2254
+Mazda,MX-5,2020,43000,Thermal,France,2.0,4999
+Mazda,MX-5,2020,43000,Thermal,Germany,2.1,17246
+Mazda,MX-5,2020,43000,Thermal,USA,4.3,2852
+Mazda,Mazda6,2015,33000,Thermal,France,4.0,15794
+Mazda,Mazda6,2015,33000,Thermal,Germany,3.7,8144
+Mazda,Mazda6,2015,33000,Thermal,USA,1.3,975
+Jaguar,F-PACE,2010,76000,Electric,France,4.3,1425
+Jaguar,F-PACE,2010,76000,Electric,Germany,4.7,6906
+Jaguar,F-PACE,2010,76000,Electric,USA,3.0,8619
+Mazda,Mazda6,2020,78000,Electric,France,4.1,12685
+Mazda,Mazda6,2020,78000,Electric,Germany,1.7,11655
+Mazda,Mazda6,2020,78000,Electric,USA,4.7,11313
+Volkswagen,Tiguan,2017,56000,Electric,France,4.5,2289
+Volkswagen,Tiguan,2017,56000,Electric,Germany,2.0,1839
+Volkswagen,Tiguan,2017,56000,Electric,USA,2.3,5914
+Ford,Fusion,2011,23000,Electric,France,2.3,8327
+Ford,Fusion,2011,23000,Electric,Germany,1.3,556
+Ford,Fusion,2011,23000,Electric,USA,2.9,8952
+Vauxhall,Astra,2013,68000,Thermal,France,1.3,17741
+Vauxhall,Astra,2013,68000,Thermal,Germany,2.9,12895
+Vauxhall,Astra,2013,68000,Thermal,USA,1.8,11189
+Acura,RDX,2011,49000,Thermal,France,1.6,1269
+Acura,RDX,2011,49000,Thermal,Germany,2.6,13644
+Acura,RDX,2011,49000,Thermal,USA,1.3,3396
+BMW,X5,2010,79000,Thermal,France,3.5,3613
+BMW,X5,2010,79000,Thermal,Germany,3.8,4942
+BMW,X5,2010,79000,Thermal,USA,2.1,10519
+Lexus,LS,2021,43000,Electric,France,3.0,5714
+Lexus,LS,2021,43000,Electric,Germany,3.1,14650
+Lexus,LS,2021,43000,Electric,USA,3.4,6494
+Lexus,LS,2021,66000,Electric,France,3.0,5714
+Lexus,LS,2021,66000,Electric,Germany,3.1,14650
+Lexus,LS,2021,66000,Electric,USA,3.4,6494
+Lexus,RX,2014,23000,Thermal,France,4.2,2785
+Lexus,RX,2014,23000,Thermal,Germany,2.1,1124
+Lexus,RX,2014,23000,Thermal,USA,3.7,5750
+Honda,Pilot,2015,29000,Thermal,France,2.2,15857
+Honda,Pilot,2015,29000,Thermal,Germany,2.1,14235
+Honda,Pilot,2015,29000,Thermal,USA,3.1,11709
+Fiat,500X,2016,71000,Thermal,France,2.3,16685
+Fiat,500X,2016,71000,Thermal,Germany,4.5,9460
+Fiat,500X,2016,71000,Thermal,USA,3.2,12686
+Volvo,XC40,2014,54000,Thermal,France,3.5,11403
+Volvo,XC40,2014,54000,Thermal,Germany,2.7,14929
+Volvo,XC40,2014,54000,Thermal,USA,3.9,17785
+Fiat,Panda,2020,66000,Electric,France,1.8,10825
+Fiat,Panda,2020,66000,Electric,Germany,4.9,13092
+Fiat,Panda,2020,66000,Electric,USA,3.1,2109
+Hyundai,Elantra,2010,43000,Electric,France,2.4,9785
+Hyundai,Elantra,2010,43000,Electric,Germany,1.2,10619
+Hyundai,Elantra,2010,43000,Electric,USA,2.2,5618
+Tesla,Model Y,2018,72000,Thermal,France,4.6,18220
+Tesla,Model Y,2018,72000,Thermal,Germany,1.7,13031
+Tesla,Model Y,2018,72000,Thermal,USA,4.8,13911
+Vauxhall,Crossland X,2011,32000,Electric,France,3.9,9343
+Vauxhall,Crossland X,2011,32000,Electric,Germany,4.8,8392
+Vauxhall,Crossland X,2011,32000,Electric,USA,4.5,5299
+Porsche,Taycan,2012,64000,Thermal,France,1.8,6274
+Porsche,Taycan,2012,64000,Thermal,Germany,4.4,9532
+Porsche,Taycan,2012,64000,Thermal,USA,4.3,3013
+Porsche,Taycan,2012,25000,Electric,France,1.8,6274
+Porsche,Taycan,2012,25000,Electric,Germany,4.4,9532
+Porsche,Taycan,2012,25000,Electric,USA,4.3,3013
+Mazda,MX-5,2012,53000,Thermal,France,2.5,15724
+Mazda,MX-5,2012,53000,Thermal,Germany,3.9,17173
+Mazda,MX-5,2012,53000,Thermal,USA,1.4,15536
+Fiat,124 Spider,2013,77000,Thermal,France,2.6,7408
+Fiat,124 Spider,2013,77000,Thermal,Germany,3.8,9393
+Fiat,124 Spider,2013,77000,Thermal,USA,4.5,12784
+Audi,A6,2021,60000,Thermal,France,2.0,11207
+Audi,A6,2021,60000,Thermal,Germany,2.0,18485
+Audi,A6,2021,60000,Thermal,USA,2.1,9844
+Audi,A6,2021,70000,Electric,France,2.0,11207
+Audi,A6,2021,70000,Electric,Germany,2.0,18485
+Audi,A6,2021,70000,Electric,USA,2.1,9844
+Buick,Enclave,2017,73000,Thermal,France,1.2,12683
+Buick,Enclave,2017,73000,Thermal,Germany,4.4,10596
+Buick,Enclave,2017,73000,Thermal,USA,1.9,13435
+Toyota,Corolla,2017,36000,Electric,France,4.2,8342
+Toyota,Corolla,2017,36000,Electric,Germany,4.0,4709
+Toyota,Corolla,2017,36000,Electric,USA,2.4,14280
+Volvo,XC90,2016,78000,Electric,France,4.4,10529
+Volvo,XC90,2016,78000,Electric,Germany,4.3,3013
+Volvo,XC90,2016,78000,Electric,USA,2.9,5885
+Peugeot,5008,2020,71000,Electric,France,3.0,12282
+Peugeot,5008,2020,71000,Electric,Germany,4.8,3041
+Peugeot,5008,2020,71000,Electric,USA,3.2,926
+Acura,MDX,2022,71000,Thermal,France,3.7,13460
+Acura,MDX,2022,71000,Thermal,Germany,3.8,3630
+Acura,MDX,2022,71000,Thermal,USA,1.8,9588
+Volvo,XC40,2019,39000,Thermal,France,4.5,15833
+Volvo,XC40,2019,39000,Thermal,Germany,2.5,1469
+Volvo,XC40,2019,39000,Thermal,USA,2.3,12662
+Nissan,Leaf,2012,23000,Electric,France,1.2,16455
+Nissan,Leaf,2012,23000,Electric,Germany,1.3,5786
+Nissan,Leaf,2012,23000,Electric,USA,1.2,15548
+Tesla,Model Y,2020,58000,Thermal,France,3.1,13239
+Tesla,Model Y,2020,58000,Thermal,Germany,3.6,16896
+Tesla,Model Y,2020,58000,Thermal,USA,3.6,2542
+Porsche,Macan,2012,54000,Thermal,France,1.7,12222
+Porsche,Macan,2012,54000,Thermal,Germany,3.0,9228
+Porsche,Macan,2012,54000,Thermal,USA,1.2,15159
+Jaguar,I-PACE,2014,68000,Electric,France,2.9,11683
+Jaguar,I-PACE,2014,68000,Electric,Germany,4.6,13879
+Jaguar,I-PACE,2014,68000,Electric,USA,3.8,7314
+Peugeot,308,2011,42000,Thermal,France,4.1,17092
+Peugeot,308,2011,42000,Thermal,Germany,4.5,3417
+Peugeot,308,2011,42000,Thermal,USA,2.9,15567
+Lexus,LS,2012,70000,Thermal,France,4.3,6292
+Lexus,LS,2012,70000,Thermal,Germany,3.1,4547
+Lexus,LS,2012,70000,Thermal,USA,3.6,2751
+Vauxhall,Corsa,2020,65000,Electric,France,3.2,8798
+Vauxhall,Corsa,2020,65000,Electric,Germany,2.0,612
+Vauxhall,Corsa,2020,65000,Electric,USA,4.0,13525
+Nissan,Maxima,2016,66000,Thermal,France,3.3,16168
+Nissan,Maxima,2016,66000,Thermal,Germany,3.1,6371
+Nissan,Maxima,2016,66000,Thermal,USA,3.3,13693
+Mazda,CX-5,2012,63000,Thermal,France,2.1,2805
+Mazda,CX-5,2012,63000,Thermal,Germany,2.7,1640
+Mazda,CX-5,2012,63000,Thermal,USA,4.5,15457
+Honda,CR-V,2011,45000,Thermal,France,2.9,8860
+Honda,CR-V,2011,45000,Thermal,Germany,3.6,4238
+Honda,CR-V,2011,45000,Thermal,USA,3.9,14588
+Honda,CR-V,2017,58000,Electric,France,3.3,6567
+Honda,CR-V,2017,58000,Electric,Germany,2.5,6603
+Honda,CR-V,2017,58000,Electric,USA,1.4,8969
+Honda,CR-V,2017,45000,Electric,France,3.3,6567
+Honda,CR-V,2017,45000,Electric,Germany,2.5,6603
+Honda,CR-V,2017,45000,Electric,USA,1.4,8969
+Subaru,Forester,2013,58000,Thermal,France,4.1,12548
+Subaru,Forester,2013,58000,Thermal,Germany,3.1,3209
+Subaru,Forester,2013,58000,Thermal,USA,1.8,7027
+Volvo,S90,2022,30000,Electric,France,1.4,5510
+Volvo,S90,2022,30000,Electric,Germany,3.1,11019
+Volvo,S90,2022,30000,Electric,USA,2.9,1758
+Honda,CR-V,2013,68000,Thermal,France,1.3,5805
+Honda,CR-V,2013,68000,Thermal,Germany,4.2,4395
+Honda,CR-V,2013,68000,Thermal,USA,3.8,4635
+Renault,Scenic,2015,39000,Electric,France,1.3,2883
+Renault,Scenic,2015,39000,Electric,Germany,3.8,7621
+Renault,Scenic,2015,39000,Electric,USA,3.0,16738
+Jaguar,I-PACE,2012,68000,Thermal,France,3.7,15036
+Jaguar,I-PACE,2012,68000,Thermal,Germany,3.5,17480
+Jaguar,I-PACE,2012,68000,Thermal,USA,3.2,10248
+Hyundai,Tucson,2015,52000,Electric,France,3.0,13098
+Hyundai,Tucson,2015,52000,Electric,Germany,3.4,7100
+Hyundai,Tucson,2015,52000,Electric,USA,1.4,16574
+BMW,5 Series,2012,35000,Thermal,France,2.9,2109
+BMW,5 Series,2012,35000,Thermal,Germany,4.8,13333
+BMW,5 Series,2012,35000,Thermal,USA,4.0,11534
+Buick,Envision,2021,21000,Electric,France,4.9,10956
+Buick,Envision,2021,21000,Electric,Germany,4.5,13457
+Buick,Envision,2021,21000,Electric,USA,2.1,8405
+Kia,Optima,2020,27000,Thermal,France,1.4,16725
+Kia,Optima,2020,27000,Thermal,Germany,4.2,15362
+Kia,Optima,2020,27000,Thermal,USA,4.5,13375
+Volkswagen,Passat,2010,61000,Electric,France,4.6,17992
+Volkswagen,Passat,2010,61000,Electric,Germany,1.4,13395
+Volkswagen,Passat,2010,61000,Electric,USA,4.3,8516
+Hyundai,Sonata,2015,69000,Electric,France,1.7,17882
+Hyundai,Sonata,2015,69000,Electric,Germany,1.3,17305
+Hyundai,Sonata,2015,69000,Electric,USA,4.3,1733
+Vauxhall,Crossland X,2017,35000,Thermal,France,1.9,5095
+Vauxhall,Crossland X,2017,35000,Thermal,Germany,1.6,16770
+Vauxhall,Crossland X,2017,35000,Thermal,USA,2.8,13189
+Toyota,Camry,2011,28000,Electric,France,3.1,18279
+Toyota,Camry,2011,28000,Electric,Germany,3.0,11549
+Toyota,Camry,2011,28000,Electric,USA,4.2,14671
+Renault,Megane,2012,49000,Thermal,France,2.7,14552
+Renault,Megane,2012,49000,Thermal,Germany,1.9,13431
+Renault,Megane,2012,49000,Thermal,USA,4.2,8384
+Vauxhall,Grandland X,2016,37000,Thermal,France,1.3,13577
+Vauxhall,Grandland X,2016,37000,Thermal,Germany,1.6,3179
+Vauxhall,Grandland X,2016,37000,Thermal,USA,3.9,13121
+Mercedes-Benz,GLE,2013,78000,Electric,France,4.1,1800
+Mercedes-Benz,GLE,2013,78000,Electric,Germany,2.4,18026
+Mercedes-Benz,GLE,2013,78000,Electric,USA,1.9,5343
+Fiat,124 Spider,2014,79000,Thermal,France,3.2,727
+Fiat,124 Spider,2014,79000,Thermal,Germany,2.3,17180
+Fiat,124 Spider,2014,79000,Thermal,USA,2.1,5644
+Audi,Q7,2021,20000,Electric,France,3.5,13941
+Audi,Q7,2021,20000,Electric,Germany,2.1,7291
+Audi,Q7,2021,20000,Electric,USA,3.5,4538
+Mazda,CX-9,2010,56000,Electric,France,1.8,3936
+Mazda,CX-9,2010,56000,Electric,Germany,4.1,14845
+Mazda,CX-9,2010,56000,Electric,USA,1.3,1322
+Mercedes-Benz,GLC,2012,42000,Thermal,France,2.4,11681
+Mercedes-Benz,GLC,2012,42000,Thermal,Germany,4.4,4906
+Mercedes-Benz,GLC,2012,42000,Thermal,USA,1.2,6788
+Kia,Sportage,2018,39000,Thermal,France,2.7,16723
+Kia,Sportage,2018,39000,Thermal,Germany,2.9,10283
+Kia,Sportage,2018,39000,Thermal,USA,2.5,4228
+Mercedes-Benz,GLC,2020,21000,Thermal,France,1.6,3732
+Mercedes-Benz,GLC,2020,21000,Thermal,Germany,4.6,14868
+Mercedes-Benz,GLC,2020,21000,Thermal,USA,1.5,9056
+Toyota,Prius,2015,48000,Electric,France,2.2,10894
+Toyota,Prius,2015,48000,Electric,Germany,1.7,10782
+Toyota,Prius,2015,48000,Electric,USA,4.8,9070
+Renault,Kadjar,2014,41000,Electric,France,4.3,4026
+Renault,Kadjar,2014,41000,Electric,Germany,3.5,16046
+Renault,Kadjar,2014,41000,Electric,USA,3.5,3944
+Honda,Fit,2010,55000,Thermal,France,3.4,8049
+Honda,Fit,2010,55000,Thermal,Germany,2.6,17745
+Honda,Fit,2010,55000,Thermal,USA,2.2,17185
+Ford,F-150,2014,76000,Electric,France,4.9,5970
+Ford,F-150,2014,76000,Electric,Germany,4.5,7516
+Ford,F-150,2014,76000,Electric,USA,2.2,13190
+Buick,Enclave,2010,47000,Thermal,France,3.5,13394
+Buick,Enclave,2010,47000,Thermal,Germany,3.9,10650
+Buick,Enclave,2010,47000,Thermal,USA,2.2,2281
+Honda,Civic,2018,44000,Thermal,France,1.9,10195
+Honda,Civic,2018,44000,Thermal,Germany,4.0,7649
+Honda,Civic,2018,44000,Thermal,USA,1.6,710
+Subaru,Outback,2011,80000,Electric,France,3.0,11775
+Subaru,Outback,2011,80000,Electric,Germany,3.2,3268
+Subaru,Outback,2011,80000,Electric,USA,3.0,13277
+Audi,A4,2014,23000,Electric,France,2.4,7638
+Audi,A4,2014,23000,Electric,Germany,3.4,2479
+Audi,A4,2014,23000,Electric,USA,2.9,13068
+Volkswagen,Passat,2021,23000,Electric,France,3.0,14964
+Volkswagen,Passat,2021,23000,Electric,Germany,2.8,5648
+Volkswagen,Passat,2021,23000,Electric,USA,2.3,10249
+Tesla,Model S,2017,74000,Electric,France,1.9,6878
+Tesla,Model S,2017,74000,Electric,Germany,1.9,10309
+Tesla,Model S,2017,74000,Electric,USA,1.6,8304
+Mazda,CX-5,2020,63000,Thermal,France,1.2,1095
+Mazda,CX-5,2020,63000,Thermal,Germany,4.3,16182
+Mazda,CX-5,2020,63000,Thermal,USA,4.6,8770
+Mazda,CX-5,2020,48000,Electric,France,1.2,1095
+Mazda,CX-5,2020,48000,Electric,Germany,4.3,16182
+Mazda,CX-5,2020,48000,Electric,USA,4.6,8770
+Chevrolet,Bolt,2020,34000,Electric,France,1.4,2817
+Chevrolet,Bolt,2020,34000,Electric,Germany,4.6,15543
+Chevrolet,Bolt,2020,34000,Electric,USA,2.3,12775
+Volvo,XC90,2013,52000,Thermal,France,4.8,10219
+Volvo,XC90,2013,52000,Thermal,Germany,1.4,3364
+Volvo,XC90,2013,52000,Thermal,USA,2.2,1115
+Buick,Encore,2020,67000,Electric,France,3.7,7294
+Buick,Encore,2020,67000,Electric,Germany,2.1,3015
+Buick,Encore,2020,67000,Electric,USA,4.7,8154
+Mercedes-Benz,GLE,2022,78000,Thermal,France,1.2,11438
+Mercedes-Benz,GLE,2022,78000,Thermal,Germany,4.8,11961
+Mercedes-Benz,GLE,2022,78000,Thermal,USA,1.3,4292
+Lexus,RX,2018,52000,Electric,France,2.6,9702
+Lexus,RX,2018,52000,Electric,Germany,2.5,12798
+Lexus,RX,2018,52000,Electric,USA,2.4,12925
+Audi,Q7,2018,61000,Thermal,France,3.2,14286
+Audi,Q7,2018,61000,Thermal,Germany,3.5,3010
+Audi,Q7,2018,61000,Thermal,USA,3.9,11196
+Tesla,Model X,2013,35000,Thermal,France,4.7,16846
+Tesla,Model X,2013,35000,Thermal,Germany,3.6,2631
+Tesla,Model X,2013,35000,Thermal,USA,4.3,11799
+Peugeot,508,2015,39000,Electric,France,2.3,4986
+Peugeot,508,2015,39000,Electric,Germany,4.2,5274
+Peugeot,508,2015,39000,Electric,USA,2.7,14376
+Acura,RLX,2020,27000,Electric,France,4.0,6268
+Acura,RLX,2020,27000,Electric,Germany,2.3,16273
+Acura,RLX,2020,27000,Electric,USA,2.3,1004
+Nissan,Leaf,2019,26000,Electric,France,2.1,5984
+Nissan,Leaf,2019,26000,Electric,Germany,3.6,17859
+Nissan,Leaf,2019,26000,Electric,USA,3.8,1153
+Volkswagen,Golf,2013,61000,Electric,France,2.0,9224
+Volkswagen,Golf,2013,61000,Electric,Germany,2.6,1810
+Volkswagen,Golf,2013,61000,Electric,USA,1.8,13620
+Fiat,500X,2017,26000,Thermal,France,1.9,10426
+Fiat,500X,2017,26000,Thermal,Germany,2.0,10095
+Fiat,500X,2017,26000,Thermal,USA,1.4,8531
+Subaru,Ascent,2020,63000,Electric,France,1.2,18239
+Subaru,Ascent,2020,63000,Electric,Germany,3.6,6720
+Subaru,Ascent,2020,63000,Electric,USA,3.1,12079
+Lexus,NX,2020,49000,Thermal,France,4.6,9205
+Lexus,NX,2020,49000,Thermal,Germany,2.3,4099
+Lexus,NX,2020,49000,Thermal,USA,4.5,17567
+Buick,Encore,2015,55000,Thermal,France,4.3,4102
+Buick,Encore,2015,55000,Thermal,Germany,1.6,9060
+Buick,Encore,2015,55000,Thermal,USA,2.8,15984
+Nissan,Leaf,2022,27000,Thermal,France,4.4,2823
+Nissan,Leaf,2022,27000,Thermal,Germany,2.8,18077
+Nissan,Leaf,2022,27000,Thermal,USA,3.6,16872
+Subaru,Impreza,2015,28000,Thermal,France,2.5,5053
+Subaru,Impreza,2015,28000,Thermal,Germany,2.7,2370
+Subaru,Impreza,2015,28000,Thermal,USA,1.4,6953
+Mazda,Mazda6,2010,74000,Thermal,France,1.4,17619
+Mazda,Mazda6,2010,74000,Thermal,Germany,3.7,12345
+Mazda,Mazda6,2010,74000,Thermal,USA,4.2,15510
+Honda,Pilot,2011,61000,Thermal,France,2.5,9696
+Honda,Pilot,2011,61000,Thermal,Germany,2.6,6190
+Honda,Pilot,2011,61000,Thermal,USA,4.3,11248
+Peugeot,508,2016,78000,Electric,France,4.2,3976
+Peugeot,508,2016,78000,Electric,Germany,2.9,9262
+Peugeot,508,2016,78000,Electric,USA,4.5,9378
+Kia,Telluride,2010,54000,Electric,France,1.3,11691
+Kia,Telluride,2010,54000,Electric,Germany,1.9,17954
+Kia,Telluride,2010,54000,Electric,USA,1.7,16172
+Vauxhall,Corsa,2016,74000,Thermal,France,4.3,9541
+Vauxhall,Corsa,2016,74000,Thermal,Germany,2.1,10020
+Vauxhall,Corsa,2016,74000,Thermal,USA,2.6,3779
+Vauxhall,Astra,2021,48000,Thermal,France,3.1,7330
+Vauxhall,Astra,2021,48000,Thermal,Germany,4.1,11286
+Vauxhall,Astra,2021,48000,Thermal,USA,1.5,9345
+Buick,Regal,2017,46000,Thermal,France,3.5,14436
+Buick,Regal,2017,46000,Thermal,Germany,2.3,5595
+Buick,Regal,2017,46000,Thermal,USA,3.0,13626
+Acura,MDX,2020,55000,Thermal,France,4.1,10224
+Acura,MDX,2020,55000,Thermal,Germany,1.2,2510
+Acura,MDX,2020,55000,Thermal,USA,1.3,8261
+Hyundai,Santa Fe,2018,59000,Electric,France,4.4,1338
+Hyundai,Santa Fe,2018,59000,Electric,Germany,4.2,7336
+Hyundai,Santa Fe,2018,59000,Electric,USA,4.2,1474
+Jaguar,XF,2017,22000,Electric,France,4.4,13228
+Jaguar,XF,2017,22000,Electric,Germany,4.2,16838
+Jaguar,XF,2017,22000,Electric,USA,2.2,12063
+Vauxhall,Insignia,2017,60000,Electric,France,4.1,2088
+Vauxhall,Insignia,2017,60000,Electric,Germany,1.9,14221
+Vauxhall,Insignia,2017,60000,Electric,USA,1.7,11617
+BMW,X3,2019,51000,Thermal,France,4.2,6854
+BMW,X3,2019,51000,Thermal,Germany,2.9,7657
+BMW,X3,2019,51000,Thermal,USA,3.6,9431
+Porsche,911,2021,49000,Thermal,France,4.7,4665
+Porsche,911,2021,49000,Thermal,Germany,4.3,9560
+Porsche,911,2021,49000,Thermal,USA,4.2,12850
+Renault,Clio,2012,29000,Thermal,France,3.1,6554
+Renault,Clio,2012,29000,Thermal,Germany,1.1,3875
+Renault,Clio,2012,29000,Thermal,USA,4.2,14482
+Audi,A6,2011,43000,Electric,France,2.0,9762
+Audi,A6,2011,43000,Electric,Germany,4.4,12349
+Audi,A6,2011,43000,Electric,USA,2.2,13145
+Nissan,Maxima,2018,61000,Thermal,France,4.8,10656
+Nissan,Maxima,2018,61000,Thermal,Germany,2.8,9559
+Nissan,Maxima,2018,61000,Thermal,USA,2.5,17658
+Porsche,911,2016,48000,Electric,France,3.1,3707
+Porsche,911,2016,48000,Electric,Germany,2.2,11212
+Porsche,911,2016,48000,Electric,USA,1.2,2856
+Lexus,GX,2021,56000,Electric,France,1.5,17728
+Lexus,GX,2021,56000,Electric,Germany,2.0,10617
+Lexus,GX,2021,56000,Electric,USA,4.0,11542
+Peugeot,5008,2018,72000,Electric,France,2.5,9179
+Peugeot,5008,2018,72000,Electric,Germany,1.2,10697
+Peugeot,5008,2018,72000,Electric,USA,2.0,16651
+Lexus,RX,2011,52000,Thermal,France,3.8,9491
+Lexus,RX,2011,52000,Thermal,Germany,3.7,15262
+Lexus,RX,2011,52000,Thermal,USA,1.9,15004
+Volkswagen,Tiguan,2014,25000,Electric,France,2.8,11550
+Volkswagen,Tiguan,2014,25000,Electric,Germany,2.5,3949
+Volkswagen,Tiguan,2014,25000,Electric,USA,4.9,14025
+Ford,Mustang,2010,35000,Electric,France,3.6,2023
+Ford,Mustang,2010,35000,Electric,Germany,3.9,2500
+Ford,Mustang,2010,35000,Electric,USA,2.2,18051
+Hyundai,Palisade,2018,35000,Electric,France,1.2,17528
+Hyundai,Palisade,2018,35000,Electric,Germany,1.6,11821
+Hyundai,Palisade,2018,35000,Electric,USA,4.7,5393
+Kia,Soul,2016,52000,Thermal,France,1.9,10525
+Kia,Soul,2016,52000,Thermal,Germany,4.5,16397
+Kia,Soul,2016,52000,Thermal,USA,1.9,14998
+Lexus,NX,2011,66000,Thermal,France,4.5,9454
+Lexus,NX,2011,66000,Thermal,Germany,2.7,14798
+Lexus,NX,2011,66000,Thermal,USA,2.0,9416
